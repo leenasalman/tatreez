@@ -1,0 +1,13 @@
+.film-section {
+    padding: 5rem 0;
+}
+.film-section .container .row h4 {
+    color: var(--primary-text-color);
+    font-size: 18px;
+    margin-bottom: 0;
+}
+.film-section .container .row .view-more-btn {
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;
+}

@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 26.86 27.27">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath-20);
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-16);
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-21);
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath-22);
+      }
+
+      .cls-14 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-15 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-16 {
+        fill: none;
+      }
+
+      .cls-17 {
+        fill: #b0a06e;
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath-19);
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-20 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-21 {
+        clip-path: url(#clippath-18);
+      }
+
+      .cls-22 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-23 {
+        clip-path: url(#clippath-17);
+      }
+
+      .cls-24 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-25 {
+        fill: #ce000f;
+      }
+
+      .cls-26 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-27 {
+        clip-path: url(#clippath-23);
+      }
+
+      .cls-28 {
+        fill: red;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="cls-16" points="1.63 1.63 9.42 9 9.32 1.63 1.63 1.63"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="cls-16" points="1.63 1.63 9.42 9 2.06 9.31 1.63 1.63"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polygon class="cls-16" points="25.14 1.63 17.35 9 17.45 1.63 25.14 1.63"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <polygon class="cls-16" points="25.14 1.63 17.35 9 24.71 9.31 25.14 1.63"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <polygon class="cls-16" points="25.14 25.45 17.35 18.08 17.45 25.45 25.14 25.45"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <polygon class="cls-16" points="25.14 25.45 17.35 18.09 24.71 17.77 25.14 25.45"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <polygon class="cls-16" points="1.63 25.45 9.42 18.08 9.32 25.45 1.63 25.45"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <polygon class="cls-16" points="1.63 25.45 9.42 18.09 2.06 17.77 1.63 25.45"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <polygon class="cls-16" points="13.22 0 13.25 9.42 7.15 4.88 13.22 0"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <polygon class="cls-16" points="13.17 .03 13.19 9.45 7.09 4.91 13.17 .03"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <polygon class="cls-16" points="13.2 0 13.11 9.42 19.25 4.92 13.2 0"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <polygon class="cls-16" points="13.26 .03 13.17 9.45 19.3 4.95 13.26 .03"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <polygon class="cls-16" points="26.86 13.38 17.44 13.4 21.98 7.3 26.86 13.38"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <polygon class="cls-16" points="26.83 13.32 17.41 13.35 21.95 7.24 26.83 13.32"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <polygon class="cls-16" points="26.86 13.36 17.44 13.27 21.94 19.4 26.86 13.36"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <polygon class="cls-16" points="26.83 13.42 17.41 13.32 21.9 19.46 26.83 13.42"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <polygon class="cls-16" points="0 13.38 9.42 13.4 4.88 7.3 0 13.38"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <polygon class="cls-16" points=".03 13.32 9.45 13.35 4.91 7.24 .03 13.32"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <polygon class="cls-16" points="0 13.36 9.42 13.27 4.92 19.4 0 13.36"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <polygon class="cls-16" points=".03 13.42 9.45 13.32 4.95 19.46 .03 13.42"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <polygon class="cls-16" points="13.28 27.27 13.3 17.85 7.2 22.39 13.28 27.27"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <polygon class="cls-16" points="13.22 27.24 13.24 17.82 7.14 22.36 13.22 27.24"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <polygon class="cls-16" points="13.26 27.27 13.17 17.86 19.3 22.35 13.26 27.27"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <polygon class="cls-16" points="13.31 27.24 13.22 17.83 19.36 22.32 13.31 27.24"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="flower">
+      <g id="flower_petal" data-name="flower petal">
+        <g class="cls-15">
+          <g id="flower_petal-2" data-name="flower petal">
+            <rect class="cls-28" x="6.62" y="5.22" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="2.12" y="2.1" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="5.24" y="4.88" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="4.2" y="2.1" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="5.24" y="3.14" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="3.5" y="4.88" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="6.97" y="6.61" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="2.81" y="2.1" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="5.58" y="6.26" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="2.12" y="3.63" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="2.6" y="4.88" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="3.85" y="3.49" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="3.85" y="5.57" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="5.93" y="4.18" width="1.73" height="1.73"/>
+          </g>
+        </g>
+        <g class="cls-10">
+          <g id="flower_petal-3" data-name="flower petal">
+            <rect class="cls-25" x="5.54" y="6.37" width="1.73" height="1.73" transform="translate(-.4 .37) rotate(-3.21)"/>
+            <rect class="cls-25" x="2.17" y="2.04" width="1.73" height="1.73" transform="translate(-.16 .18) rotate(-3.21)"/>
+            <rect class="cls-25" x="5.12" y="5" width="1.73" height="1.73" transform="translate(-.32 .34) rotate(-3.21)"/>
+            <rect class="cls-25" x="2.29" y="4.12" width="1.73" height="1.73" transform="translate(-.27 .18) rotate(-3.21)"/>
+            <rect class="cls-25" x="3.39" y="5.1" width="1.73" height="1.73" transform="translate(-.33 .25) rotate(-3.21)"/>
+            <rect class="cls-25" x="5.02" y="3.27" width="1.73" height="1.73" transform="translate(-.22 .34) rotate(-3.21)"/>
+            <rect class="cls-25" x="6.95" y="6.64" width="1.73" height="1.73" transform="translate(-.41 .45) rotate(-3.21)"/>
+            <rect class="cls-25" x="2.21" y="2.74" width="1.73" height="1.73" transform="translate(-.2 .18) rotate(-3.21)"/>
+            <rect class="cls-25" x="6.52" y="5.27" width="1.73" height="1.73" transform="translate(-.33 .42) rotate(-3.21)"/>
+            <rect class="cls-25" x="3.7" y="1.96" width="1.73" height="1.73" transform="translate(-.15 .26) rotate(-3.21)"/>
+            <rect class="cls-25" x="4.97" y="2.37" width="1.73" height="1.73" transform="translate(-.17 .33) rotate(-3.21)"/>
+            <rect class="cls-25" x="3.65" y="3.7" width="1.73" height="1.73" transform="translate(-.25 .26) rotate(-3.21)"/>
+            <rect class="cls-25" x="5.73" y="3.58" width="1.73" height="1.73" transform="translate(-.24 .38) rotate(-3.21)"/>
+            <rect class="cls-25" x="4.46" y="5.74" width="1.73" height="1.73" transform="translate(-.36 .31) rotate(-3.21)"/>
+          </g>
+        </g>
+      </g>
+      <g id="flower_petal-4" data-name="flower petal">
+        <g class="cls-4">
+          <g id="flower_petal-5" data-name="flower petal">
+            <rect class="cls-28" x="18.41" y="5.22" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="22.92" y="2.1" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="19.8" y="4.88" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="20.84" y="2.1" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="19.8" y="3.14" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="21.53" y="4.88" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="18.06" y="6.61" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="22.23" y="2.1" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="19.45" y="6.26" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="22.92" y="3.63" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="22.43" y="4.88" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="21.19" y="3.49" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="21.19" y="5.57" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="19.1" y="4.18" width="1.73" height="1.73"/>
+          </g>
+        </g>
+        <g class="cls-19">
+          <g id="flower_petal-6" data-name="flower petal">
+            <rect class="cls-25" x="19.49" y="6.37" width="1.73" height="1.73" transform="translate(11.99 27.16) rotate(-86.79)"/>
+            <rect class="cls-25" x="22.86" y="2.04" width="1.73" height="1.73" transform="translate(19.49 26.44) rotate(-86.79)"/>
+            <rect class="cls-25" x="19.92" y="5" width="1.73" height="1.73" transform="translate(13.76 26.29) rotate(-86.79)"/>
+            <rect class="cls-25" x="22.75" y="4.12" width="1.73" height="1.73" transform="translate(17.31 28.28) rotate(-86.79)"/>
+            <rect class="cls-25" x="21.65" y="5.1" width="1.73" height="1.73" transform="translate(15.29 28.11) rotate(-86.79)"/>
+            <rect class="cls-25" x="20.02" y="3.27" width="1.73" height="1.73" transform="translate(15.58 24.76) rotate(-86.79)"/>
+            <rect class="cls-25" x="18.09" y="6.64" width="1.73" height="1.73" transform="translate(10.4 26.01) rotate(-86.79)"/>
+            <rect class="cls-25" x="22.82" y="2.74" width="1.73" height="1.73" transform="translate(18.77 27.05) rotate(-86.79)"/>
+            <rect class="cls-25" x="18.51" y="5.27" width="1.73" height="1.73" transform="translate(12.16 25.15) rotate(-86.79)"/>
+            <rect class="cls-25" x="21.34" y="1.96" width="1.73" height="1.73" transform="translate(18.14 24.84) rotate(-86.79)"/>
+            <rect class="cls-25" x="20.07" y="2.37" width="1.73" height="1.73" transform="translate(16.52 23.96) rotate(-86.79)"/>
+            <rect class="cls-25" x="21.38" y="3.7" width="1.73" height="1.73" transform="translate(16.44 26.52) rotate(-86.79)"/>
+            <rect class="cls-25" x="19.3" y="3.58" width="1.73" height="1.73" transform="translate(14.6 24.34) rotate(-86.79)"/>
+            <rect class="cls-25" x="20.57" y="5.74" width="1.73" height="1.73" transform="translate(13.64 27.64) rotate(-86.79)"/>
+          </g>
+        </g>
+      </g>
+      <g id="flower_petal-7" data-name="flower petal">
+        <g class="cls-11">
+          <g id="flower_petal-8" data-name="flower petal">
+            <rect class="cls-25" x="18.41" y="20.12" width="1.73" height="1.73"/>
+            <rect class="cls-25" x="22.92" y="23.24" width="1.73" height="1.73"/>
+            <rect class="cls-25" x="19.8" y="20.47" width="1.73" height="1.73"/>
+            <rect class="cls-25" x="20.84" y="23.24" width="1.73" height="1.73"/>
+            <rect class="cls-25" x="19.8" y="22.2" width="1.73" height="1.73"/>
+            <rect class="cls-25" x="21.53" y="20.47" width="1.73" height="1.73"/>
+            <rect class="cls-25" x="18.06" y="18.74" width="1.73" height="1.73"/>
+            <rect class="cls-25" x="22.23" y="23.24" width="1.73" height="1.73"/>
+            <rect class="cls-25" x="19.45" y="19.08" width="1.73" height="1.73"/>
+            <rect class="cls-25" x="22.92" y="21.72" width="1.73" height="1.73"/>
+            <rect class="cls-25" x="22.43" y="20.47" width="1.73" height="1.73"/>
+            <rect class="cls-25" x="21.19" y="21.86" width="1.73" height="1.73"/>
+            <rect class="cls-25" x="21.19" y="19.78" width="1.73" height="1.73"/>
+            <rect class="cls-25" x="19.1" y="21.16" width="1.73" height="1.73"/>
+          </g>
+        </g>
+        <g class="cls-24">
+          <g id="flower_petal-9" data-name="flower petal">
+            <rect class="cls-28" x="19.49" y="18.98" width="1.73" height="1.73" transform="translate(-1.08 1.17) rotate(-3.21)"/>
+            <rect class="cls-28" x="22.86" y="23.3" width="1.73" height="1.73" transform="translate(-1.32 1.37) rotate(-3.21)"/>
+            <rect class="cls-28" x="19.92" y="20.34" width="1.73" height="1.73" transform="translate(-1.16 1.2) rotate(-3.21)"/>
+            <rect class="cls-28" x="22.75" y="21.23" width="1.73" height="1.73" transform="translate(-1.2 1.36) rotate(-3.21)"/>
+            <rect class="cls-28" x="21.65" y="20.25" width="1.73" height="1.73" transform="translate(-1.15 1.3) rotate(-3.21)"/>
+            <rect class="cls-28" x="20.02" y="22.07" width="1.73" height="1.73" transform="translate(-1.25 1.21) rotate(-3.21)"/>
+            <rect class="cls-28" x="18.09" y="18.71" width="1.73" height="1.73" transform="translate(-1.07 1.09) rotate(-3.21)"/>
+            <rect class="cls-28" x="22.82" y="22.61" width="1.73" height="1.73" transform="translate(-1.28 1.37) rotate(-3.21)"/>
+            <rect class="cls-28" x="18.51" y="20.07" width="1.73" height="1.73" transform="translate(-1.14 1.12) rotate(-3.21)"/>
+            <rect class="cls-28" x="21.34" y="23.39" width="1.73" height="1.73" transform="translate(-1.33 1.28) rotate(-3.21)"/>
+            <rect class="cls-28" x="20.07" y="22.97" width="1.73" height="1.73" transform="translate(-1.3 1.21) rotate(-3.21)"/>
+            <rect class="cls-28" x="21.38" y="21.65" width="1.73" height="1.73" transform="translate(-1.23 1.28) rotate(-3.21)"/>
+            <rect class="cls-28" x="19.3" y="21.77" width="1.73" height="1.73" transform="translate(-1.24 1.17) rotate(-3.21)"/>
+            <rect class="cls-28" x="20.57" y="19.61" width="1.73" height="1.73" transform="translate(-1.11 1.23) rotate(-3.21)"/>
+          </g>
+        </g>
+      </g>
+      <g id="flower_petal_1" data-name="flower petal 1">
+        <g class="cls-7">
+          <g id="flower_petal-10" data-name="flower petal">
+            <rect class="cls-28" x="6.62" y="20.12" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="2.12" y="23.24" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="5.24" y="20.47" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="4.2" y="23.24" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="5.24" y="22.2" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="3.5" y="20.47" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="6.97" y="18.74" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="2.81" y="23.24" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="5.58" y="19.08" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="2.12" y="21.72" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="2.6" y="20.47" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="3.85" y="21.86" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="3.85" y="19.78" width="1.73" height="1.73"/>
+            <rect class="cls-28" x="5.93" y="21.16" width="1.73" height="1.73"/>
+          </g>
+        </g>
+        <g class="cls-8">
+          <g id="flower_petal-11" data-name="flower petal">
+            <rect class="cls-25" x="5.54" y="18.98" width="1.73" height="1.73" transform="translate(-13.76 25.13) rotate(-86.79)"/>
+            <rect class="cls-25" x="2.17" y="23.3" width="1.73" height="1.73" transform="translate(-21.26 25.85) rotate(-86.79)"/>
+            <rect class="cls-25" x="5.12" y="20.34" width="1.73" height="1.73" transform="translate(-15.53 26) rotate(-86.79)"/>
+            <rect class="cls-25" x="2.29" y="21.23" width="1.73" height="1.73" transform="translate(-19.08 24.01) rotate(-86.79)"/>
+            <rect class="cls-25" x="3.39" y="20.25" width="1.73" height="1.73" transform="translate(-17.07 24.18) rotate(-86.79)"/>
+            <rect class="cls-25" x="5.02" y="22.07" width="1.73" height="1.73" transform="translate(-17.35 27.53) rotate(-86.79)"/>
+            <rect class="cls-25" x="6.95" y="18.71" width="1.73" height="1.73" transform="translate(-12.17 26.28) rotate(-86.79)"/>
+            <rect class="cls-25" x="2.21" y="22.61" width="1.73" height="1.73" transform="translate(-20.54 25.24) rotate(-86.79)"/>
+            <rect class="cls-25" x="6.52" y="20.07" width="1.73" height="1.73" transform="translate(-13.93 27.14) rotate(-86.79)"/>
+            <rect class="cls-25" x="3.7" y="23.39" width="1.73" height="1.73" transform="translate(-19.91 27.45) rotate(-86.79)"/>
+            <rect class="cls-25" x="4.97" y="22.97" width="1.73" height="1.73" transform="translate(-18.29 28.33) rotate(-86.79)"/>
+            <rect class="cls-25" x="3.65" y="21.65" width="1.73" height="1.73" transform="translate(-18.21 25.77) rotate(-86.79)"/>
+            <rect class="cls-25" x="5.73" y="21.77" width="1.73" height="1.73" transform="translate(-16.37 27.95) rotate(-86.79)"/>
+            <rect class="cls-25" x="4.46" y="19.61" width="1.73" height="1.73" transform="translate(-15.41 24.65) rotate(-86.79)"/>
+          </g>
+        </g>
+      </g>
+      <g id="flower_petal_2" data-name="flower petal 2">
+        <g class="cls-20">
+          <polygon class="cls-28" points="10.92 6.45 12.29 5.35 13.74 6.41 12.37 7.51 10.92 6.45"/>
+          <polygon class="cls-28" points="11.72 5.36 13.09 4.26 14.55 5.32 13.18 6.42 11.72 5.36"/>
+          <polygon class="cls-28" points="10.22 3.02 11.59 1.92 13.04 2.97 11.67 4.07 10.22 3.02"/>
+          <polygon class="cls-28" points="10.27 4.31 11.64 3.21 13.09 4.26 11.72 5.36 10.27 4.31"/>
+          <polygon class="cls-28" points="11.81 7.52 13.18 6.42 14.63 7.47 13.26 8.57 11.81 7.52"/>
+          <polygon class="cls-28" points="11.31 2.14 12.68 1.04 14.14 2.09 12.77 3.19 11.31 2.14"/>
+          <polygon class="cls-28" points="12.61 6.43 13.98 5.33 15.44 6.38 14.07 7.48 12.61 6.43"/>
+          <polygon class="cls-28" points="13.81 3.69 15.18 2.59 16.63 3.64 15.26 4.74 13.81 3.69"/>
+          <polygon class="cls-28" points="11.66 3.64 13.03 2.54 14.48 3.59 13.11 4.69 11.66 3.64"/>
+          <polygon class="cls-28" points="13.4 4.9 14.77 3.8 16.23 4.86 14.86 5.96 13.4 4.9"/>
+          <polygon class="cls-28" points="10.59 5.38 11.96 4.28 13.42 5.34 12.05 6.44 10.59 5.38"/>
+          <polygon class="cls-28" points="12.68 1.03 15.27 1.04 13.89 2.46 12.68 1.03"/>
+          <g class="cls-14">
+            <polygon class="cls-28" points="10.86 6.48 12.23 5.38 13.69 6.44 12.32 7.54 10.86 6.48"/>
+            <polygon class="cls-28" points="11.67 5.39 13.04 4.29 14.49 5.35 13.12 6.45 11.67 5.39"/>
+            <polygon class="cls-28" points="10.16 3.05 11.53 1.95 12.99 3 11.62 4.1 10.16 3.05"/>
+            <polygon class="cls-28" points="10.21 4.34 11.58 3.24 13.04 4.29 11.67 5.39 10.21 4.34"/>
+            <polygon class="cls-28" points="11.75 7.55 13.12 6.45 14.58 7.5 13.21 8.6 11.75 7.55"/>
+            <polygon class="cls-28" points="11.26 2.17 12.63 1.07 14.08 2.12 12.71 3.22 11.26 2.17"/>
+            <polygon class="cls-28" points="12.56 6.46 13.93 5.36 15.38 6.41 14.01 7.51 12.56 6.46"/>
+            <polygon class="cls-28" points="13.75 3.72 15.12 2.62 16.58 3.67 15.21 4.77 13.75 3.72"/>
+            <polygon class="cls-28" points="11.6 3.67 12.97 2.57 14.42 3.62 13.05 4.72 11.6 3.67"/>
+            <polygon class="cls-28" points="13.35 4.94 14.72 3.83 16.17 4.89 14.8 5.99 13.35 4.94"/>
+            <polygon class="cls-28" points="10.54 5.41 11.91 4.31 13.36 5.37 11.99 6.47 10.54 5.41"/>
+            <polygon class="cls-28" points="12.62 1.06 15.21 1.07 13.84 2.49 12.62 1.06"/>
+          </g>
+        </g>
+        <g class="cls-26">
+          <polygon class="cls-28" points="15.46 6.47 14.1 5.36 12.64 6.4 14 7.51 15.46 6.47"/>
+          <polygon class="cls-28" points="14.67 5.37 13.3 4.26 11.84 5.31 13.2 6.42 14.67 5.37"/>
+          <polygon class="cls-28" points="16.19 3.04 14.83 1.93 13.36 2.97 14.73 4.08 16.19 3.04"/>
+          <polygon class="cls-28" points="16.13 4.33 14.77 3.22 13.3 4.26 14.67 5.37 16.13 4.33"/>
+          <polygon class="cls-28" points="14.57 7.53 13.2 6.42 11.74 7.46 13.1 8.57 14.57 7.53"/>
+          <polygon class="cls-28" points="15.1 2.15 13.74 1.04 12.27 2.08 13.64 3.19 15.1 2.15"/>
+          <polygon class="cls-28" points="13.77 6.43 12.41 5.32 10.94 6.36 12.31 7.47 13.77 6.43"/>
+          <polygon class="cls-28" points="12.59 3.69 11.23 2.58 9.77 3.62 11.13 4.73 12.59 3.69"/>
+          <polygon class="cls-28" points="14.75 3.65 13.38 2.54 11.92 3.58 13.28 4.69 14.75 3.65"/>
+          <polygon class="cls-28" points="12.99 4.9 11.63 3.79 10.17 4.83 11.53 5.94 12.99 4.9"/>
+          <polygon class="cls-28" points="15.8 5.4 14.43 4.29 12.97 5.33 14.33 6.44 15.8 5.4"/>
+          <polygon class="cls-28" points="13.74 1.03 11.15 1.02 12.52 2.46 13.74 1.03"/>
+          <g class="cls-2">
+            <polygon class="cls-25" points="15.52 6.5 14.16 5.39 12.69 6.43 14.06 7.54 15.52 6.5"/>
+            <polygon class="cls-25" points="14.72 5.4 13.36 4.29 11.9 5.34 13.26 6.45 14.72 5.4"/>
+            <polygon class="cls-25" points="16.24 3.07 14.88 1.96 13.42 3 14.78 4.11 16.24 3.07"/>
+            <polygon class="cls-25" points="16.18 4.36 14.82 3.25 13.36 4.29 14.72 5.4 16.18 4.36"/>
+            <polygon class="cls-25" points="14.62 7.56 13.26 6.45 11.8 7.49 13.16 8.6 14.62 7.56"/>
+            <polygon class="cls-25" points="15.15 2.18 13.79 1.07 12.33 2.11 13.69 3.22 15.15 2.18"/>
+            <polygon class="cls-25" points="13.82 6.46 12.46 5.35 11 6.39 12.36 7.5 13.82 6.46"/>
+            <polygon class="cls-25" points="12.65 3.72 11.29 2.61 9.83 3.65 11.19 4.76 12.65 3.72"/>
+            <polygon class="cls-25" points="14.8 3.68 13.44 2.57 11.98 3.61 13.34 4.72 14.8 3.68"/>
+            <polygon class="cls-25" points="13.05 4.93 11.68 3.82 10.22 4.87 11.58 5.98 13.05 4.93"/>
+            <polygon class="cls-25" points="15.85 5.43 14.49 4.32 13.03 5.36 14.39 6.47 15.85 5.43"/>
+            <polygon class="cls-25" points="13.8 1.07 11.21 1.06 12.57 2.49 13.8 1.07"/>
+          </g>
+        </g>
+      </g>
+      <g id="flower_petal_2-2" data-name="flower petal 2">
+        <g class="cls-12">
+          <polygon class="cls-28" points="20.4 11.07 21.5 12.44 20.45 13.9 19.35 12.53 20.4 11.07"/>
+          <polygon class="cls-28" points="21.5 11.88 22.6 13.25 21.54 14.7 20.44 13.33 21.5 11.88"/>
+          <polygon class="cls-28" points="23.84 10.37 24.94 11.74 23.89 13.2 22.79 11.83 23.84 10.37"/>
+          <polygon class="cls-28" points="22.55 10.42 23.65 11.79 22.6 13.25 21.5 11.88 22.55 10.42"/>
+          <polygon class="cls-28" points="19.34 11.96 20.44 13.33 19.39 14.79 18.29 13.42 19.34 11.96"/>
+          <polygon class="cls-28" points="24.72 11.47 25.82 12.84 24.77 14.3 23.67 12.92 24.72 11.47"/>
+          <polygon class="cls-28" points="20.43 12.77 21.53 14.14 20.48 15.59 19.38 14.22 20.43 12.77"/>
+          <polygon class="cls-28" points="23.17 13.96 24.27 15.33 23.21 16.79 22.11 15.42 23.17 13.96"/>
+          <polygon class="cls-28" points="23.22 11.81 24.32 13.18 23.26 14.64 22.16 13.27 23.22 11.81"/>
+          <polygon class="cls-28" points="21.95 13.56 23.05 14.93 22 16.38 20.9 15.01 21.95 13.56"/>
+          <polygon class="cls-28" points="21.48 10.75 22.58 12.12 21.52 13.57 20.42 12.2 21.48 10.75"/>
+          <polygon class="cls-28" points="25.83 12.83 25.82 15.42 24.4 14.05 25.83 12.83"/>
+          <g class="cls-5">
+            <polygon class="cls-28" points="20.37 11.02 21.47 12.39 20.42 13.84 19.32 12.47 20.37 11.02"/>
+            <polygon class="cls-28" points="21.46 11.82 22.56 13.19 21.51 14.65 20.41 13.28 21.46 11.82"/>
+            <polygon class="cls-28" points="23.81 10.32 24.91 11.69 23.86 13.14 22.76 11.77 23.81 10.32"/>
+            <polygon class="cls-28" points="22.52 10.37 23.62 11.74 22.56 13.19 21.46 11.82 22.52 10.37"/>
+            <polygon class="cls-28" points="19.31 11.91 20.41 13.28 19.36 14.73 18.26 13.36 19.31 11.91"/>
+            <polygon class="cls-28" points="24.69 11.41 25.79 12.78 24.74 14.24 23.64 12.87 24.69 11.41"/>
+            <polygon class="cls-28" points="20.4 12.71 21.5 14.08 20.45 15.54 19.35 14.17 20.4 12.71"/>
+            <polygon class="cls-28" points="23.14 13.91 24.24 15.28 23.18 16.73 22.08 15.36 23.14 13.91"/>
+            <polygon class="cls-28" points="23.19 11.75 24.29 13.13 23.23 14.58 22.13 13.21 23.19 11.75"/>
+            <polygon class="cls-28" points="21.92 13.5 23.02 14.87 21.97 16.33 20.87 14.96 21.92 13.5"/>
+            <polygon class="cls-28" points="21.45 10.69 22.55 12.06 21.49 13.52 20.39 12.15 21.45 10.69"/>
+            <polygon class="cls-28" points="25.8 12.78 25.79 15.37 24.36 13.99 25.8 12.78"/>
+          </g>
+        </g>
+        <g class="cls-22">
+          <polygon class="cls-28" points="20.39 15.62 21.5 14.26 20.46 12.79 19.35 14.16 20.39 15.62"/>
+          <polygon class="cls-28" points="21.49 14.82 22.6 13.46 21.55 12 20.44 13.36 21.49 14.82"/>
+          <polygon class="cls-28" points="23.82 16.34 24.93 14.98 23.89 13.52 22.78 14.88 23.82 16.34"/>
+          <polygon class="cls-28" points="22.53 16.28 23.64 14.92 22.6 13.46 21.49 14.82 22.53 16.28"/>
+          <polygon class="cls-28" points="19.33 14.72 20.44 13.36 19.4 11.9 18.29 13.26 19.33 14.72"/>
+          <polygon class="cls-28" points="24.71 15.25 25.82 13.89 24.77 12.43 23.66 13.79 24.71 15.25"/>
+          <polygon class="cls-28" points="20.43 13.92 21.54 12.56 20.5 11.1 19.39 12.46 20.43 13.92"/>
+          <polygon class="cls-28" points="23.17 12.75 24.28 11.39 23.24 9.92 22.13 11.29 23.17 12.75"/>
+          <polygon class="cls-28" points="23.21 14.9 24.32 13.54 23.27 12.08 22.16 13.44 23.21 14.9"/>
+          <polygon class="cls-28" points="21.96 13.15 23.07 11.78 22.02 10.32 20.91 11.68 21.96 13.15"/>
+          <polygon class="cls-28" points="21.46 15.95 22.57 14.59 21.53 13.13 20.42 14.49 21.46 15.95"/>
+          <polygon class="cls-28" points="25.82 13.9 25.83 11.31 24.4 12.67 25.82 13.9"/>
+          <g class="cls-6">
+            <polygon class="cls-25" points="20.36 15.67 21.47 14.31 20.43 12.85 19.32 14.21 20.36 15.67"/>
+            <polygon class="cls-25" points="21.45 14.88 22.56 13.51 21.52 12.05 20.41 13.41 21.45 14.88"/>
+            <polygon class="cls-25" points="23.79 16.4 24.9 15.04 23.86 13.57 22.75 14.94 23.79 16.4"/>
+            <polygon class="cls-25" points="22.5 16.34 23.61 14.98 22.56 13.51 21.45 14.88 22.5 16.34"/>
+            <polygon class="cls-25" points="19.3 14.78 20.41 13.41 19.37 11.95 18.26 13.31 19.3 14.78"/>
+            <polygon class="cls-25" points="24.68 15.31 25.79 13.95 24.74 12.49 23.63 13.85 24.68 15.31"/>
+            <polygon class="cls-25" points="20.4 13.98 21.51 12.62 20.47 11.15 19.36 12.52 20.4 13.98"/>
+            <polygon class="cls-25" points="23.14 12.81 24.25 11.44 23.21 9.98 22.1 11.34 23.14 12.81"/>
+            <polygon class="cls-25" points="23.18 14.96 24.29 13.6 23.24 12.13 22.13 13.49 23.18 14.96"/>
+            <polygon class="cls-25" points="21.93 13.2 23.04 11.84 21.99 10.38 20.88 11.74 21.93 13.2"/>
+            <polygon class="cls-25" points="21.43 16.01 22.54 14.64 21.5 13.18 20.39 14.54 21.43 16.01"/>
+            <polygon class="cls-25" points="25.79 13.95 25.8 11.36 24.37 12.73 25.79 13.95"/>
+          </g>
+        </g>
+      </g>
+      <g id="flower_petal_2-3" data-name="flower petal 2">
+        <g class="cls-3">
+          <polygon class="cls-28" points="6.45 11.07 5.35 12.44 6.41 13.9 7.51 12.53 6.45 11.07"/>
+          <polygon class="cls-28" points="5.36 11.88 4.26 13.25 5.32 14.7 6.42 13.33 5.36 11.88"/>
+          <polygon class="cls-28" points="3.02 10.37 1.92 11.74 2.97 13.2 4.07 11.83 3.02 10.37"/>
+          <polygon class="cls-28" points="4.31 10.42 3.21 11.79 4.26 13.25 5.36 11.88 4.31 10.42"/>
+          <polygon class="cls-28" points="7.52 11.96 6.42 13.33 7.47 14.79 8.57 13.42 7.52 11.96"/>
+          <polygon class="cls-28" points="2.14 11.47 1.04 12.84 2.09 14.3 3.19 12.92 2.14 11.47"/>
+          <polygon class="cls-28" points="6.43 12.77 5.33 14.14 6.38 15.59 7.48 14.22 6.43 12.77"/>
+          <polygon class="cls-28" points="3.69 13.96 2.59 15.33 3.64 16.79 4.74 15.42 3.69 13.96"/>
+          <polygon class="cls-28" points="3.64 11.81 2.54 13.18 3.59 14.64 4.69 13.27 3.64 11.81"/>
+          <polygon class="cls-28" points="4.9 13.56 3.8 14.93 4.86 16.38 5.96 15.01 4.9 13.56"/>
+          <polygon class="cls-28" points="5.38 10.75 4.28 12.12 5.34 13.57 6.44 12.2 5.38 10.75"/>
+          <polygon class="cls-28" points="1.03 12.83 1.04 15.42 2.46 14.05 1.03 12.83"/>
+          <g class="cls-23">
+            <polygon class="cls-28" points="6.48 11.02 5.38 12.39 6.44 13.84 7.54 12.47 6.48 11.02"/>
+            <polygon class="cls-28" points="5.39 11.82 4.29 13.19 5.35 14.65 6.45 13.28 5.39 11.82"/>
+            <polygon class="cls-28" points="3.05 10.32 1.95 11.69 3 13.14 4.1 11.77 3.05 10.32"/>
+            <polygon class="cls-28" points="4.34 10.37 3.24 11.74 4.29 13.19 5.39 11.82 4.34 10.37"/>
+            <polygon class="cls-28" points="7.55 11.91 6.45 13.28 7.5 14.73 8.6 13.36 7.55 11.91"/>
+            <polygon class="cls-28" points="2.17 11.41 1.07 12.78 2.12 14.24 3.22 12.87 2.17 11.41"/>
+            <polygon class="cls-28" points="6.46 12.71 5.36 14.08 6.41 15.54 7.51 14.17 6.46 12.71"/>
+            <polygon class="cls-28" points="3.72 13.91 2.62 15.28 3.67 16.73 4.77 15.36 3.72 13.91"/>
+            <polygon class="cls-28" points="3.67 11.75 2.57 13.13 3.62 14.58 4.72 13.21 3.67 11.75"/>
+            <polygon class="cls-28" points="4.94 13.5 3.83 14.87 4.89 16.33 5.99 14.96 4.94 13.5"/>
+            <polygon class="cls-28" points="5.41 10.69 4.31 12.06 5.37 13.52 6.47 12.15 5.41 10.69"/>
+            <polygon class="cls-28" points="1.06 12.78 1.07 15.37 2.49 13.99 1.06 12.78"/>
+          </g>
+        </g>
+        <g class="cls-21">
+          <polygon class="cls-28" points="6.47 15.62 5.36 14.26 6.4 12.79 7.51 14.16 6.47 15.62"/>
+          <polygon class="cls-28" points="5.37 14.82 4.26 13.46 5.31 12 6.42 13.36 5.37 14.82"/>
+          <polygon class="cls-28" points="3.04 16.34 1.93 14.98 2.97 13.52 4.08 14.88 3.04 16.34"/>
+          <polygon class="cls-28" points="4.33 16.28 3.22 14.92 4.26 13.46 5.37 14.82 4.33 16.28"/>
+          <polygon class="cls-28" points="7.53 14.72 6.42 13.36 7.46 11.9 8.57 13.26 7.53 14.72"/>
+          <polygon class="cls-28" points="2.15 15.25 1.04 13.89 2.08 12.43 3.19 13.79 2.15 15.25"/>
+          <polygon class="cls-28" points="6.43 13.92 5.32 12.56 6.36 11.1 7.47 12.46 6.43 13.92"/>
+          <polygon class="cls-28" points="3.69 12.75 2.58 11.39 3.62 9.92 4.73 11.29 3.69 12.75"/>
+          <polygon class="cls-28" points="3.65 14.9 2.54 13.54 3.58 12.08 4.69 13.44 3.65 14.9"/>
+          <polygon class="cls-28" points="4.9 13.15 3.79 11.78 4.83 10.32 5.94 11.68 4.9 13.15"/>
+          <polygon class="cls-28" points="5.4 15.95 4.29 14.59 5.33 13.13 6.44 14.49 5.4 15.95"/>
+          <polygon class="cls-28" points="1.03 13.9 1.02 11.31 2.46 12.67 1.03 13.9"/>
+          <g class="cls-18">
+            <polygon class="cls-25" points="6.5 15.67 5.39 14.31 6.43 12.85 7.54 14.21 6.5 15.67"/>
+            <polygon class="cls-25" points="5.4 14.88 4.29 13.51 5.34 12.05 6.45 13.41 5.4 14.88"/>
+            <polygon class="cls-25" points="3.07 16.4 1.96 15.04 3 13.57 4.11 14.94 3.07 16.4"/>
+            <polygon class="cls-25" points="4.36 16.34 3.25 14.98 4.29 13.51 5.4 14.88 4.36 16.34"/>
+            <polygon class="cls-25" points="7.56 14.78 6.45 13.41 7.49 11.95 8.6 13.31 7.56 14.78"/>
+            <polygon class="cls-25" points="2.18 15.31 1.07 13.95 2.11 12.49 3.22 13.85 2.18 15.31"/>
+            <polygon class="cls-25" points="6.46 13.98 5.35 12.62 6.39 11.15 7.5 12.52 6.46 13.98"/>
+            <polygon class="cls-25" points="3.72 12.81 2.61 11.44 3.65 9.98 4.76 11.34 3.72 12.81"/>
+            <polygon class="cls-25" points="3.68 14.96 2.57 13.6 3.61 12.13 4.72 13.49 3.68 14.96"/>
+            <polygon class="cls-25" points="4.93 13.2 3.82 11.84 4.87 10.38 5.98 11.74 4.93 13.2"/>
+            <polygon class="cls-25" points="5.43 16.01 4.32 14.64 5.36 13.18 6.47 14.54 5.43 16.01"/>
+            <polygon class="cls-25" points="1.07 13.95 1.06 11.36 2.49 12.73 1.07 13.95"/>
+          </g>
+        </g>
+      </g>
+      <g id="flower_petal_2-4" data-name="flower petal 2">
+        <g class="cls-1">
+          <polygon class="cls-28" points="10.97 20.82 12.34 21.92 13.8 20.86 12.43 19.76 10.97 20.82"/>
+          <polygon class="cls-28" points="11.78 21.91 13.15 23.01 14.6 21.96 13.23 20.86 11.78 21.91"/>
+          <polygon class="cls-28" points="10.27 24.25 11.64 25.35 13.1 24.3 11.73 23.2 10.27 24.25"/>
+          <polygon class="cls-28" points="10.32 22.96 11.69 24.06 13.15 23.01 11.78 21.91 10.32 22.96"/>
+          <polygon class="cls-28" points="11.86 19.76 13.23 20.86 14.69 19.8 13.32 18.7 11.86 19.76"/>
+          <polygon class="cls-28" points="11.37 25.13 12.74 26.23 14.19 25.18 12.82 24.08 11.37 25.13"/>
+          <polygon class="cls-28" points="12.67 20.85 14.04 21.95 15.49 20.89 14.12 19.79 12.67 20.85"/>
+          <polygon class="cls-28" points="13.86 23.58 15.23 24.68 16.69 23.63 15.32 22.53 13.86 23.58"/>
+          <polygon class="cls-28" points="11.71 23.63 13.08 24.73 14.53 23.68 13.16 22.58 11.71 23.63"/>
+          <polygon class="cls-28" points="13.46 22.37 14.83 23.47 16.28 22.41 14.91 21.31 13.46 22.37"/>
+          <polygon class="cls-28" points="10.65 21.89 12.02 22.99 13.47 21.94 12.1 20.84 10.65 21.89"/>
+          <polygon class="cls-28" points="12.73 26.24 15.32 26.23 13.95 24.81 12.73 26.24"/>
+          <g class="cls-9">
+            <polygon class="cls-25" points="10.92 20.79 12.29 21.89 13.74 20.83 12.37 19.73 10.92 20.79"/>
+            <polygon class="cls-25" points="11.72 21.88 13.09 22.98 14.55 21.93 13.18 20.82 11.72 21.88"/>
+            <polygon class="cls-25" points="10.21 24.22 11.58 25.32 13.04 24.27 11.67 23.17 10.21 24.22"/>
+            <polygon class="cls-25" points="10.27 22.93 11.64 24.03 13.09 22.98 11.72 21.88 10.27 22.93"/>
+            <polygon class="cls-25" points="11.81 19.72 13.18 20.82 14.63 19.77 13.26 18.67 11.81 19.72"/>
+            <polygon class="cls-25" points="11.31 25.1 12.68 26.2 14.14 25.15 12.77 24.05 11.31 25.1"/>
+            <polygon class="cls-25" points="12.61 20.82 13.98 21.92 15.44 20.86 14.07 19.76 12.61 20.82"/>
+            <polygon class="cls-25" points="13.8 23.55 15.17 24.65 16.63 23.6 15.26 22.5 13.8 23.55"/>
+            <polygon class="cls-25" points="11.65 23.6 13.02 24.7 14.48 23.65 13.11 22.55 11.65 23.6"/>
+            <polygon class="cls-25" points="13.4 22.34 14.77 23.44 16.22 22.38 14.85 21.28 13.4 22.34"/>
+            <polygon class="cls-25" points="10.59 21.86 11.96 22.96 13.42 21.91 12.05 20.81 10.59 21.86"/>
+            <polygon class="cls-25" points="12.67 26.21 15.26 26.2 13.89 24.78 12.67 26.21"/>
+          </g>
+        </g>
+        <g class="cls-13">
+          <polygon class="cls-28" points="15.52 20.8 14.15 21.91 12.69 20.87 14.05 19.76 15.52 20.8"/>
+          <polygon class="cls-28" points="14.72 21.9 13.36 23.01 11.89 21.97 13.26 20.86 14.72 21.9"/>
+          <polygon class="cls-28" points="16.24 24.23 14.88 25.34 13.42 24.3 14.78 23.19 16.24 24.23"/>
+          <polygon class="cls-28" points="16.18 22.94 14.82 24.05 13.36 23.01 14.72 21.9 16.18 22.94"/>
+          <polygon class="cls-28" points="14.62 19.75 13.26 20.86 11.79 19.81 13.16 18.7 14.62 19.75"/>
+          <polygon class="cls-28" points="15.15 25.12 13.79 26.23 12.33 25.19 13.69 24.08 15.15 25.12"/>
+          <polygon class="cls-28" points="13.82 20.84 12.46 21.95 11 20.91 12.36 19.8 13.82 20.84"/>
+          <polygon class="cls-28" points="12.65 23.59 11.29 24.7 9.82 23.65 11.19 22.54 12.65 23.59"/>
+          <polygon class="cls-28" points="14.8 23.62 13.44 24.73 11.97 23.69 13.34 22.58 14.8 23.62"/>
+          <polygon class="cls-28" points="13.04 22.37 11.68 23.48 10.22 22.44 11.58 21.33 13.04 22.37"/>
+          <polygon class="cls-28" points="15.85 21.87 14.49 22.98 13.02 21.94 14.39 20.83 15.85 21.87"/>
+          <polygon class="cls-28" points="13.8 26.24 11.21 26.25 12.57 24.81 13.8 26.24"/>
+          <g class="cls-27">
+            <polygon class="cls-28" points="15.57 20.77 14.21 21.88 12.75 20.84 14.11 19.73 15.57 20.77"/>
+            <polygon class="cls-28" points="14.78 21.87 13.41 22.98 11.95 21.94 13.31 20.83 14.78 21.87"/>
+            <polygon class="cls-28" points="16.3 24.2 14.94 25.31 13.47 24.27 14.84 23.16 16.3 24.2"/>
+            <polygon class="cls-28" points="16.24 22.91 14.88 24.02 13.41 22.98 14.78 21.87 16.24 22.91"/>
+            <polygon class="cls-28" points="14.68 19.72 13.31 20.83 11.85 19.78 13.21 18.67 14.68 19.72"/>
+            <polygon class="cls-28" points="15.21 25.09 13.85 26.2 12.38 25.16 13.75 24.05 15.21 25.09"/>
+            <polygon class="cls-28" points="13.88 20.81 12.52 21.92 11.05 20.88 12.42 19.77 13.88 20.81"/>
+            <polygon class="cls-28" points="12.7 23.55 11.34 24.66 9.88 23.62 11.24 22.51 12.7 23.55"/>
+            <polygon class="cls-28" points="14.86 23.59 13.49 24.7 12.03 23.66 13.39 22.55 14.86 23.59"/>
+            <polygon class="cls-28" points="13.1 22.34 11.74 23.45 10.28 22.41 11.64 21.3 13.1 22.34"/>
+            <polygon class="cls-28" points="15.91 21.84 14.54 22.95 13.08 21.91 14.44 20.8 15.91 21.84"/>
+            <polygon class="cls-28" points="13.85 26.21 11.26 26.22 12.63 24.78 13.85 26.21"/>
+          </g>
+        </g>
+      </g>
+      <path class="cls-17" d="M10.43,10.69v5.59h5.59v-5.59h-5.59Zm3.87,3.87h-2.15v-2.15h2.15v2.15Z"/>
+    </g>
+  </g>
+</svg>

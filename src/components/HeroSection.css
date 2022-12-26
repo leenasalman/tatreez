@@ -1,0 +1,31 @@
+.hero-section h1 {
+  font-size: 20px;
+  text-align: start;
+  color: var(--primary-text-color);
+  padding: 50px 0;
+}
+.hero-section {
+  height: 100vh;
+}
+.hero-section .hero-section__text {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  height: 100%;
+}
+.hero-section .hero-section__text .tatreez-primary-btn {
+  background-color: #6b1616;
+  color: #fff;
+  border-radius: 13px;
+  box-shadow: -2px 0px 6px 3px #070707, 0px 2px 5px 0px #ffe5e5;
+}
+@media screen and (max-width: 567px) {
+    .hero-section .hero-section__text {
+        justify-content: center;
+        align-items: center;
+    }
+    .hero-section .hero-section__text .tatreez-primary-btn {
+        margin: 5px 0;
+    }
+}

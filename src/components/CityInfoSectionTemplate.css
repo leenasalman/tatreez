@@ -1,0 +1,6 @@
+.city-info-section-template__text p {
+    color: var(--primary-text-color);
+    margin: 0 4rem;
+    text-align: center;
+    font-size: 15px;
+}

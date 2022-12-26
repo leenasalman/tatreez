@@ -1,0 +1,79 @@
+.loader-style {
+  position: fixed;
+  color: #fff;
+  background-color: #212529;
+  z-index: 100;
+  width: 100vw;
+  height: 100%;
+  top: 0;
+  left: 0;
+  transition: all 0.7s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+.loader-style.loader-up {
+  top: -100%;
+}
+.loader-style button {
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  font-size: 14px;
+  text-transform: uppercase;
+  transition: all 0.3s ease-in-out;
+}
+.loader-style button:hover {
+  font-size: 16px;
+}
+.audio-player {
+  position: fixed;
+  bottom: 2.8125rem;
+  left: 5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  z-index: 99;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.line {
+  display: inline-block;
+  width: 3px;
+  height: 50%;
+  margin-right: 3px;
+  vertical-align: bottom;
+  background: #6b1616;
+  transition: all 0.2s ease-in-out;
+  transform-origin: left bottom;
+}
+.audio-player.paused .line {
+  transform: scale(1, 0.2) !important;
+}
+.loader-style button::before {
+  content: "";
+  background-image: url("../Assets/Images/small-circle.svg");
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 39.5rem;
+  top: 18rem;
+  transition: all 0.4s ease-in-out;
+}
+.loader-style button::after {
+  content: "";
+  background-image: url("../Assets/Images/large-circle.svg");
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  left: 38.5rem;
+  top: 17rem;
+  transition: all 0.4s ease-in-out;
+}
+.loader-style button:hover::after {
+  transform: rotate(90deg) scale(1.2);
+}
+.loader-style button:hover::before {
+  transform: rotate(-90deg) scale(1.2);
+}

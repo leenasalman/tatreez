@@ -1,0 +1,54 @@
+:root {
+  /* background-color: #0b0d12 !important; */
+  --blue: #029292;
+  --orange: #ee9a51;
+  --light-beige: #ffd3d3;
+  --pink: #f2b0d9;
+  --primary-text-color: #BC787E;
+  font-family: "Roboto" !important;
+  cursor: none;
+}
+/* arabic fonts */
+@font-face {
+  font-family: "Aref Ruqaa Ink";
+  src: url("./Assets/Fonts/Aref_Ruqaa_Ink/ArefRuqaaInk-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Reem Kufi Ink";
+  src: url("./Assets/Fonts/Reem_Kufi_Ink/ReemKufiInk-Regular.ttf") format("truetype");
+}
+/* Main title fonts */
+@font-face {
+  font-family: "Major Mono Display";
+  src: url("./Assets/Fonts/Major_Mono_Display/MajorMonoDisplay-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Monoton";
+  src: url("./Assets/Fonts/Monoton/Monoton-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Six Caps";
+  src: url("./Assets/Fonts/Six_Caps/SixCaps-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Zen Dots";
+  src: url("./Assets/Fonts/Zen_Dots/ZenDots-Regular.ttf") format("truetype");
+}
+/* text font */
+@font-face {
+  font-family: "Roboto";
+  src: url("./Assets/Fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+}
+html,
+body {
+  background-color: #212529 !important;
+  font-family: "Roboto" !important;
+}
+body {
+  overflow-x: hidden;
+}
+.font-arabic {
+  font-family: "Reem Kufi Ink" !important;
+  text-shadow: 0px 0px 3px var(--primary-text-color);
+
+}

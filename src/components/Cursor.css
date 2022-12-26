@@ -1,0 +1,43 @@
+body {
+  width: 100%;
+  height: 100vh;
+  cursor: none;
+}
+
+.cursor {
+  width: var(--size);
+  height: var(--size);
+  border-radius: 50%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  z-index: 100;
+}
+.cursor--large {
+  --size: 40px;
+  border: 1px dashed rgb(255, 60, 60);
+  transform: translate(-40%, -40%) rotate(0deg);
+  animation: rotate 3s infinite linear;
+}
+.cursor--small {
+  --size: 10px;
+  background: rgb(255, 60, 60);
+}
+@keyframes rotate {
+    0% {
+        transform: translate(-40%, -40%) rotate(0deg);
+    }
+    100% {
+        transform: translate(-40%, -40%) rotate(360deg);
+    }
+}
+@media screen and (max-width: 567px) {
+  body {
+    cursor: auto;
+  }
+  
+  .cursor, .cursor--large, .cursor--small {
+    display: none;
+  }
+}

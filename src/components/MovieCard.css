@@ -1,0 +1,46 @@
+.film-section .container .row .card {
+  width: 100%;
+  max-width: 200px;
+  background: transparent;
+  border: 0;
+  margin: 10px auto;
+  position: relative;
+  height: 274px;
+  border-radius: 13px;
+}
+.film-section .container .row .card img {
+  height: 100%;
+  border-radius: 13px;
+}
+.card-body {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  color: #fff;
+  z-index: 9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  transition: all 0.3s ease-in-out;
+}
+.film-section .container .row .card:hover .card-body {
+  opacity: 1;
+  background: #000000b0;
+  border-radius: 13px;
+}
+.film-section .container .row .card .card-body .card-title,
+.film-section .container .row .card .card-body .card-text {
+  font-size: 15px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.7px;
+}
+@media screen and (max-width: 567px) {
+  .film-section .container .row .card {
+    height: 142px;
+    max-width: 114px;
+  }
+}

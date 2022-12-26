@@ -1,0 +1,38 @@
+.shapes {
+  height: 50vh;
+  padding: 3rem 0;
+}
+.shapes-row,
+.shapes > .shapes-container {
+  height: 100%;
+}
+.shapes-row {
+  align-items: center;
+}
+.shapes:nth-child(even) .shapes-row {
+  flex-direction: row-reverse;
+}
+.shapes-row .col {
+  text-align: center;
+}
+.object {
+  height: 150px;
+  width: 150px;
+}
+.text-style h3 {
+  color: var(--primary-text-color);
+}
+.shapes .shapes-row .object-container .object {
+  animation: float 6s ease-in-out infinite;
+}
+@keyframes float {
+  0% {
+    transform: translatey(0px);
+  }
+  50% {
+    transform: translatey(-20px);
+  }
+  100% {
+    transform: translatey(0px);
+  }
+}
