@@ -24,8 +24,6 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import Loader from "./components/Loader";
 import Cursor from "./components/Cursor";
-import Home from './components/pages/Home';
-
 function App() {
   useEffect(() => {
     AOS.init();
