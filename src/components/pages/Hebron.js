@@ -1,10 +1,10 @@
 import React from "react";
-import CitySectionTemplate from "../../sections/CityHeroSectionTemplate";
-import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
-import Watch from "../../../Assets/Images/watch.svg";
-import Cross from "../../../Assets/Images/cross.svg";
-import Shapes from "../../Shapes";
-import IMG from "../../../Assets/Images/jerusalem.png";
+import CitySectionTemplate from "../sections/CityHeroSectionTemplate";
+import CityInfoSectionTemplate from "../sections/CityInfoSectionTemplate";
+import Watch from "../../Assets/Images/watch.svg";
+import Cross from "../../Assets/Images/cross.svg";
+import Shapes from "../Shapes";
+import IMG from "../../Assets/Images/jerusalem.png";
 
 function Hebron() {
   var city = {

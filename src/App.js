@@ -2,22 +2,22 @@ import "./App.css";
 import { useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from './components/pages/Home';
-import Acre from "./components/pages/embroidery/Acre";
-import Beersheba from "./components/pages/embroidery/Beersheba";
-import Beisan from "./components/pages/embroidery/Beisan";
-import Gaza from "./components/pages/embroidery/Gaza";
-import Haifa from "./components/pages/embroidery/Haifa";
-import Hebron from "./components/pages/embroidery/Hebron";
-import Jaffa from "./components/pages/embroidery/Jaffa";
-import Jenin from "./components/pages/embroidery/Jenin";
-import Jerusalem from "./components/pages/embroidery/Jerusalem";
-import Nablus from "./components/pages/embroidery/Nablus";
-import Nazareth from "./components/pages/embroidery/Nazareth";
-import Ramallah from "./components/pages/embroidery/Ramallah";
-import Ramla from "./components/pages/embroidery/Ramla";
-import Safad from "./components/pages/embroidery/Safad";
-import Tiberias from "./components/pages/embroidery/Tiberias";
-import Tulkarem from "./components/pages/embroidery/Tulkarem";
+import Acre from "./components/pages/Acre";
+import Beersheba from "./components/pages/Beersheba";
+import Beisan from "./components/pages/Beisan";
+import Gaza from "./components/pages/Gaza";
+import Haifa from "./components/pages/Haifa";
+import Hebron from "./components/pages/Hebron";
+import Jaffa from "./components/pages/Jaffa";
+import Jenin from "./components/pages/Jenin";
+import Jerusalem from "./components/pages/Jerusalem";
+import Nablus from "./components/pages/Nablus";
+import Nazareth from "./components/pages/Nazareth";
+import Ramallah from "./components/pages/Ramallah";
+import Ramla from "./components/pages/Ramla";
+import Safad from "./components/pages/Safad";
+import Tiberias from "./components/pages/Tiberias";
+import Tulkarem from "./components/pages/Tulkarem";
 import PalestinianFilms from "./components/pages/PalestinianFilms";
 import SupportPalestine from "./components/pages/SupportPalestine";
 import AOS from "aos";
@@ -33,25 +33,25 @@ function App() {
     <>
       <Router>
         <Routes>
-          <Route path="/tatreez" element={<Home />} />
-          <Route path="/tatreez/embroidery/acre" element={<Acre />} />
-          <Route path="/tatreez/embroidery/beersheba" element={<Beersheba />} />
-          <Route path="/tatreez/embroidery/beisan" element={<Beisan />} />
-          <Route path="/tatreez/embroidery/gaza" element={<Gaza />} />
-          <Route path="/tatreez/embroidery/haifa" element={<Haifa />} />
-          <Route path="/tatreez/embroidery/hebron" element={<Hebron />} />
-          <Route path="/tatreez/embroidery/jaffa" element={<Jaffa />} />
-          <Route path="/tatreez/embroidery/jenin" element={<Jenin />} />
-          <Route path="/tatreez/embroidery/jerusalem" element={<Jerusalem />} />
-          <Route path="/tatreez/embroidery/nablus" element={<Nablus />} />
-          <Route path="/tatreez/embroidery/nazareth" element={<Nazareth />} />
-          <Route path="/tatreez/embroidery/ramallah" element={<Ramallah />} />
-          <Route path="/tatreez/embroidery/ramla" element={<Ramla />} />
-          <Route path="/tatreez/embroidery/safad" element={<Safad />} />
-          <Route path="/tatreez/embroidery/tiberias" element={<Tiberias />} />
-          <Route path="/tatreez/embroidery/tulkarem" element={<Tulkarem />} />
-          <Route path="/tatreez/palestinian-films" element={<PalestinianFilms />} />
-          <Route path="/tatreez/support-palestine" element={<SupportPalestine />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/acre" element={<Acre />} />
+          <Route path="/beersheba" element={<Beersheba />} />
+          <Route path="/beisan" element={<Beisan />} />
+          <Route path="/gaza" element={<Gaza />} />
+          <Route path="/haifa" element={<Haifa />} />
+          <Route path="/hebron" element={<Hebron />} />
+          <Route path="/jaffa" element={<Jaffa />} />
+          <Route path="/jenin" element={<Jenin />} />
+          <Route path="/jerusalem" element={<Jerusalem />} />
+          <Route path="/nablus" element={<Nablus />} />
+          <Route path="/nazareth" element={<Nazareth />} />
+          <Route path="/ramallah" element={<Ramallah />} />
+          <Route path="/ramla" element={<Ramla />} />
+          <Route path="/safad" element={<Safad />} />
+          <Route path="/tiberias" element={<Tiberias />} />
+          <Route path="/tulkarem" element={<Tulkarem />} />
+          <Route path="/palestinian-films" element={<PalestinianFilms />} />
+          <Route path="/support-palestine" element={<SupportPalestine />} />
         </Routes>
       </Router>
       <Loader />

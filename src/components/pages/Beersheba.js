@@ -1,11 +1,11 @@
 import React from "react";
-import CitySectionTemplate from "../../sections/CityHeroSectionTemplate";
-import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
-import Shapes from "../../Shapes";
-import IMG from "../../../Assets/Images/gaza.png";
-import Ship from "../../../Assets/Images/ship.svg";
-import Watch from "../../../Assets/Images/watch.svg";
-import ButterFly from "../../../Assets/Images/butterfly.svg";
+import CitySectionTemplate from "../sections/CityHeroSectionTemplate";
+import CityInfoSectionTemplate from "../sections/CityInfoSectionTemplate";
+import Shapes from "../Shapes";
+import IMG from "../../Assets/Images/gaza.png";
+import Ship from "../../Assets/Images/ship.svg";
+import Watch from "../../Assets/Images/watch.svg";
+import ButterFly from "../../Assets/Images/butterfly.svg";
 function Beersheba() {
   var city = {
     name: "Beersheba",

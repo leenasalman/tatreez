@@ -1,11 +1,11 @@
 import React from "react";
-import CitySectionTemplate from "../../sections/CityHeroSectionTemplate";
-import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
-import Watch from "../../../Assets/Images/watch.svg";
-import FlowerPot from "../../../Assets/Images/flower_pot.svg";
-import Tent from "../../../Assets/Images/tent.svg";
-import Shapes from "../../Shapes";
-import IMG from '../../../Assets/Images/lydda.png';
+import CitySectionTemplate from "../sections/CityHeroSectionTemplate";
+import CityInfoSectionTemplate from "../sections/CityInfoSectionTemplate";
+import Watch from "../../Assets/Images/watch.svg";
+import FlowerPot from "../../Assets/Images/flower_pot.svg";
+import Tent from "../../Assets/Images/tent.svg";
+import Shapes from "../Shapes";
+import IMG from '../../Assets/Images/lydda.png';
 
 function Jaffa() {
   var city = {
