@@ -23,82 +23,82 @@ function Cities() {
               <div className="cities-section__container">
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/acre">Acre</a>
+                    <a href="/tatreez/acre">Acre</a>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tulkarem">Tulkarem</a>
+                    <a href="/tatreez/tulkarem">Tulkarem</a>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/haifa">Haifa</a>
+                    <a href="/tatreez/haifa">Haifa</a>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/beersheba">Beersheba</a>
+                    <a href="/tatreez/beersheba">Beersheba</a>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/hebron">Hebron</a>
+                    <a href="/tatreez/hebron">Hebron</a>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/beisan">Beisan</a>
+                    <a href="/tatreez/beisan">Beisan</a>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/jenin">Jenin</a>
+                    <a href="/tatreez/jenin">Jenin</a>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/ramallah">Ramallah</a>
+                    <a href="/tatreez/ramallah">Ramallah</a>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/nablus">Nablus</a>
+                    <a href="/tatreez/nablus">Nablus</a>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/jerusalem">Jerusalem</a>
+                    <a href="/tatreez/jerusalem">Jerusalem</a>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/nazareth">Nazareth</a>
+                    <a href="/tatreez/nazareth">Nazareth</a>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/jaffa">Jaffa</a>
+                    <a href="/tatreez/jaffa">Jaffa</a>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/safad">Safad</a>
+                    <a href="/tatreez/safad">Safad</a>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/ramla">Ramla</a>
+                    <a href="/tatreez/ramla">Ramla</a>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tiberias">Tiberias</a>
+                    <a href="/tatreez/tiberias">Tiberias</a>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/gaza">Gaza</a>
+                    <a href="/tatreez/gaza">Gaza</a>
                   </h2>
                 </div>
               </div>
