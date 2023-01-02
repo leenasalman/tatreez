@@ -34,22 +34,22 @@ function App() {
       <Router>
         <Routes>
           <Route path="/tatreez" element={<Home />} />
-          <Route path="/tatreez/acre" element={<Acre />} />
-          <Route path="/tatreez/beersheba" element={<Beersheba />} />
-          <Route path="/tatreez/beisan" element={<Beisan />} />
-          <Route path="/tatreez/gaza" element={<Gaza />} />
-          <Route path="/tatreez/haifa" element={<Haifa />} />
-          <Route path="/tatreez/hebron" element={<Hebron />} />
-          <Route path="/tatreez/jaffa" element={<Jaffa />} />
-          <Route path="/tatreez/jenin" element={<Jenin />} />
-          <Route path="/tatreez/jerusalem" element={<Jerusalem />} />
-          <Route path="/tatreez/nablus" element={<Nablus />} />
-          <Route path="/tatreez/nazareth" element={<Nazareth />} />
-          <Route path="/tatreez/ramallah" element={<Ramallah />} />
-          <Route path="/tatreez/ramla" element={<Ramla />} />
-          <Route path="/tatreez/safad" element={<Safad />} />
-          <Route path="/tatreez/tiberias" element={<Tiberias />} />
-          <Route path="/tatreez/tulkarem" element={<Tulkarem />} />
+          <Route path="/acre" element={<Acre />} />
+          <Route path="/beersheba" element={<Beersheba />} />
+          <Route path="/beisan" element={<Beisan />} />
+          <Route path="/gaza" element={<Gaza />} />
+          <Route path="/haifa" element={<Haifa />} />
+          <Route path="/hebron" element={<Hebron />} />
+          <Route path="/jaffa" element={<Jaffa />} />
+          <Route path="/jenin" element={<Jenin />} />
+          <Route path="/jerusalem" element={<Jerusalem />} />
+          <Route path="/nablus" element={<Nablus />} />
+          <Route path="/nazareth" element={<Nazareth />} />
+          <Route path="/ramallah" element={<Ramallah />} />
+          <Route path="/ramla" element={<Ramla />} />
+          <Route path="/safad" element={<Safad />} />
+          <Route path="/tiberias" element={<Tiberias />} />
+          <Route path="/tulkarem" element={<Tulkarem />} />
           <Route path="/palestinian-films" element={<PalestinianFilms />} />
           <Route path="/support-palestine" element={<SupportPalestine />} />
         </Routes>

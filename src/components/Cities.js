@@ -1,5 +1,7 @@
 import React from "react";
 import { useEffect } from "react";
+import { Link } from "react-router-dom";
+
 import "./Cities.css";
 function Cities() {
   useEffect(() => {
@@ -23,82 +25,82 @@ function Cities() {
               <div className="cities-section__container">
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/acre">Acre</a>
+                    <Link to="/acre">Acre</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/tulkarem">Tulkarem</a>
+                    <Link tp="/tulkarem">Tulkarem</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/haifa">Haifa</a>
+                    <Link to="/haifa">Haifa</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/beersheba">Beersheba</a>
+                    <Link to="/beersheba">Beersheba</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/hebron">Hebron</a>
+                    <Link to="/hebron">Hebron</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/beisan">Beisan</a>
+                    <Link to="/beisan">Beisan</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/jenin">Jenin</a>
+                    <Link to="/jenin">Jenin</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/ramallah">Ramallah</a>
+                    <Link to="/ramallah">Ramallah</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/nablus">Nablus</a>
+                    <Link to="/nablus">Nablus</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/jerusalem">Jerusalem</a>
+                    <Link to="/jerusalem">Jerusalem</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/nazareth">Nazareth</a>
+                    <Link to="/nazareth">Nazareth</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/jaffa">Jaffa</a>
+                    <Link to="/jaffa">Jaffa</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/safad">Safad</a>
+                    <Link to="/safad">Safad</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/ramla">Ramla</a>
+                    <Link to="/ramla">Ramla</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/tiberias">Tiberias</a>
+                    <Link to="/tiberias">Tiberias</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <a href="/tatreez/gaza">Gaza</a>
+                    <Link to="/gaza">Gaza</Link>
                   </h2>
                 </div>
               </div>
