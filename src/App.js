@@ -1,6 +1,7 @@
 import "./App.css";
 import { useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Home from './components/pages/Home';
 import Acre from "./components/pages/embroidery/Acre";
 import Beersheba from "./components/pages/embroidery/Beersheba";
 import Beisan from "./components/pages/embroidery/Beisan";
