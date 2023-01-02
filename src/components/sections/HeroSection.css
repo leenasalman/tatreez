@@ -28,10 +28,10 @@
   .hero-section .hero-section__text .tatreez-primary-btn {
     margin: 5px 0;
   }
-  .first-col {
+  .hero-section .first-col {
     z-index: 9;
   }
-  .second-col {
+  .hero-section .second-col {
     margin-top: -11rem;
   }
 }
