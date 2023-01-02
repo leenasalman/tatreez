@@ -10,7 +10,7 @@ function Home() {
     <Button Title="Support Palestine" pagePath="/support-palestine" additionalClass="float-btn"/>
       <HeroSection />
       <Cities />
-      {/* <FilmsSlider /> */}
+      <FilmsSlider />
     </>
   );
 }
