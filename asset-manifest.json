@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tatreez/static/css/main.adfdac75.css",
-    "main.js": "/tatreez/static/js/main.4a99d0fd.js",
+    "main.js": "/tatreez/static/js/main.b0e3f665.js",
     "static/js/787.803bdef1.chunk.js": "/tatreez/static/js/787.803bdef1.chunk.js",
     "static/media/TraditionalMusic.mp3": "/tatreez/static/media/TraditionalMusic.0741a3c11d18da60fbee.mp3",
     "static/media/ArefRuqaaInk-Regular.ttf": "/tatreez/static/media/ArefRuqaaInk-Regular.735f1279777e442abcb9.ttf",
@@ -32,11 +32,11 @@
     "static/media/large-circle.svg": "/tatreez/static/media/large-circle.ba7ee1ef16cac82b758e.svg",
     "static/media/small-circle.svg": "/tatreez/static/media/small-circle.c49fe5dcde91b307167f.svg",
     "main.adfdac75.css.map": "/tatreez/static/css/main.adfdac75.css.map",
-    "main.4a99d0fd.js.map": "/tatreez/static/js/main.4a99d0fd.js.map",
+    "main.b0e3f665.js.map": "/tatreez/static/js/main.b0e3f665.js.map",
     "787.803bdef1.chunk.js.map": "/tatreez/static/js/787.803bdef1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.adfdac75.css",
-    "static/js/main.4a99d0fd.js"
+    "static/js/main.b0e3f665.js"
   ]
 }
