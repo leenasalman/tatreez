@@ -9,7 +9,7 @@ function HeroSection() {
       <section className="hero-section">
         <div className="container">
           <div className="row flex-column flex-md-row">
-            <div className="col-md-6 col">
+            <div className="col-md-6 col first-col">
               <div className="hero-section__text">
                 <h1>
                   Embroidery, or Tatreez (
@@ -22,7 +22,7 @@ function HeroSection() {
                 <Button Title="explore more" pagePath="#citiesID" />
               </div>
             </div>
-            <div className="col-md-6 col">
+            <div className="col-md-6 col second-col">
               <CityOutlineSection />
             </div>
           </div>

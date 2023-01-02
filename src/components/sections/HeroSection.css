@@ -21,11 +21,17 @@
   box-shadow: -2px 0px 6px 3px #070707, 0px 2px 5px 0px #ffe5e5;
 }
 @media screen and (max-width: 567px) {
-    .hero-section .hero-section__text {
-        justify-content: center;
-        align-items: center;
-    }
-    .hero-section .hero-section__text .tatreez-primary-btn {
-        margin: 5px 0;
-    }
+  .hero-section .hero-section__text {
+    justify-content: center;
+    align-items: center;
+  }
+  .hero-section .hero-section__text .tatreez-primary-btn {
+    margin: 5px 0;
+  }
+  .first-col {
+    z-index: 9;
+  }
+  .second-col {
+    margin-top: -11rem;
+  }
 }

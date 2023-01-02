@@ -5,3 +5,9 @@
   z-index: 10;
   transform: rotate(-90deg);
 }
+@media screen and (max-width: 567px) {
+  .float-btn {
+    right: -1rem;
+  }
+  
+}
