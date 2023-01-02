@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/tatreez/static/css/main.adfdac75.css",
+    "main.js": "/tatreez/static/js/main.4a99d0fd.js",
+    "static/js/787.803bdef1.chunk.js": "/tatreez/static/js/787.803bdef1.chunk.js",
+    "static/media/TraditionalMusic.mp3": "/tatreez/static/media/TraditionalMusic.0741a3c11d18da60fbee.mp3",
+    "static/media/ArefRuqaaInk-Regular.ttf": "/tatreez/static/media/ArefRuqaaInk-Regular.735f1279777e442abcb9.ttf",
+    "static/media/ReemKufiInk-Regular.ttf": "/tatreez/static/media/ReemKufiInk-Regular.21e9c677bdaeff6fb1a5.ttf",
+    "static/media/Roboto-Regular.ttf": "/tatreez/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/MajorMonoDisplay-Regular.ttf": "/tatreez/static/media/MajorMonoDisplay-Regular.68a265ac783795c7bcc1.ttf",
+    "static/media/galilee.png": "/tatreez/static/media/galilee.f428f470aa69666c8dd5.png",
+    "static/media/jerusalem.png": "/tatreez/static/media/jerusalem.dc59e9e7471f94bb2804.png",
+    "static/media/samaria.png": "/tatreez/static/media/samaria.c45205300a817fb75c56.png",
+    "static/media/Monoton-Regular.ttf": "/tatreez/static/media/Monoton-Regular.1f3bd420f1198c5c85e8.ttf",
+    "static/media/SixCaps-Regular.ttf": "/tatreez/static/media/SixCaps-Regular.b78a2a9a78283d592f92.ttf",
+    "static/media/ZenDots-Regular.ttf": "/tatreez/static/media/ZenDots-Regular.ad9e0d65654bb49213b6.ttf",
+    "static/media/gaza.png": "/tatreez/static/media/gaza.4134e6b92881df3816af.png",
+    "static/media/haifa.png": "/tatreez/static/media/haifa.9c4805d87a3abb458794.png",
+    "static/media/flower_2.svg": "/tatreez/static/media/flower_2.fca72f91bb7f486382fa0a6475bf9361.svg",
+    "static/media/palm_tree.svg": "/tatreez/static/media/palm_tree.bf3f938f63080d456b1bf3caeb396630.svg",
+    "static/media/lydda.png": "/tatreez/static/media/lydda.ec75550c1c8cfbb8709c.png",
+    "static/media/flower_pot.svg": "/tatreez/static/media/flower_pot.5ede8ab2a36c435538c398f575f0ebb5.svg",
+    "static/media/star.svg": "/tatreez/static/media/star.9fb39352bf76f064e6893fd8e5fe96ea.svg",
+    "static/media/cross.svg": "/tatreez/static/media/cross.cb646d52547e6adb375cc29bbfb8e788.svg",
+    "static/media/ship.svg": "/tatreez/static/media/ship.5c71bf3a928a2e9aea90b7a224cd2564.svg",
+    "static/media/scale.svg": "/tatreez/static/media/scale.e67be61373c280f197cc5d765b1e2846.svg",
+    "static/media/butterfly.svg": "/tatreez/static/media/butterfly.f4c52afbe7ae0b29dc01f63065edbebc.svg",
+    "static/media/tent.svg": "/tatreez/static/media/tent.205f878f0ad7bd4b9f5af66c624ea576.svg",
+    "static/media/feather.svg": "/tatreez/static/media/feather.b990e783f3a799e250bf0551fa474b5f.svg",
+    "static/media/watch.svg": "/tatreez/static/media/watch.aa9bf2606ac22b6baba35913e2ffaac8.svg",
+    "index.html": "/tatreez/index.html",
+    "static/media/large-circle.svg": "/tatreez/static/media/large-circle.ba7ee1ef16cac82b758e.svg",
+    "static/media/small-circle.svg": "/tatreez/static/media/small-circle.c49fe5dcde91b307167f.svg",
+    "main.adfdac75.css.map": "/tatreez/static/css/main.adfdac75.css.map",
+    "main.4a99d0fd.js.map": "/tatreez/static/js/main.4a99d0fd.js.map",
+    "787.803bdef1.chunk.js.map": "/tatreez/static/js/787.803bdef1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adfdac75.css",
+    "static/js/main.4a99d0fd.js"
+  ]
+}
