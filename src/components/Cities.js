@@ -16,7 +16,7 @@ function Cities() {
   }, []);
   return (
     <>
-      <section className="cities-sections">
+      <section className="cities-sections" id="citiesID">
         <div className="container h-100">
           <div className="row h-100">
             <div className="col">
@@ -60,9 +60,6 @@ function Cities() {
                   <h2>
                     <a href="/embroidery/ramallah">Ramallah</a>
                   </h2>
-                </div>
-                <div className="cities-style">
-                  <h2 className="distinct-style">Cities</h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>

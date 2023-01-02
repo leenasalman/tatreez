@@ -1,0 +1,6 @@
+.list-items .item::marker {
+    color: var(--link-text-color);
+}
+.list-items .item a {
+    color: #fff;
+}

@@ -1,7 +1,6 @@
 import React from "react";
-import Cursor from "../../Cursor";
-import CitySectionTemplate from "../../CityHeroSectionTemplate";
-import CityInfoSectionTemplate from "../../CityInfoSectionTemplate";
+import CitySectionTemplate from "../../sections/CityHeroSectionTemplate";
+import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
 import Watch from "../../../Assets/Images/watch.svg";
 import FlowerPot from "../../../Assets/Images/flower_pot.svg";
 import Tent from "../../../Assets/Images/tent.svg";
@@ -32,7 +31,6 @@ function Ramla() {
   ];
   return (
     <>
-      <Cursor />
       <CitySectionTemplate cityName={city.name} imgSrc={city.imgSrc} />
       <CityInfoSectionTemplate
         cityName={city.name}

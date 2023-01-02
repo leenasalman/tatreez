@@ -18,38 +18,46 @@ import Ramla from "./components/pages/embroidery/Ramla";
 import Safad from "./components/pages/embroidery/Safad";
 import Tiberias from "./components/pages/embroidery/Tiberias";
 import Tulkarem from "./components/pages/embroidery/Tulkarem";
-import PalestinianFilms from './components/pages/PalestinianFilms'
+import PalestinianFilms from "./components/pages/PalestinianFilms";
+import SupportPalestine from "./components/pages/SupportPalestine";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import Loader from "./components/Loader";
+import Cursor from "./components/Cursor";
 
 function App() {
   useEffect(() => {
     AOS.init();
   }, []);
-  return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/embroidery/acre" element={<Acre />} />
-        <Route path="/embroidery/beersheba" element={<Beersheba />} />
-        <Route path="/embroidery/beisan" element={<Beisan />} />
-        <Route path="/embroidery/gaza" element={<Gaza />} />
-        <Route path="/embroidery/haifa" element={<Haifa />} />
-        <Route path="/embroidery/hebron" element={<Hebron />} />
-        <Route path="/embroidery/jaffa" element={<Jaffa />} />
-        <Route path="/embroidery/jenin" element={<Jenin />} />
-        <Route path="/embroidery/jerusalem" element={<Jerusalem />} />
-        <Route path="/embroidery/nablus" element={<Nablus />} />
-        <Route path="/embroidery/nazareth" element={<Nazareth />} />
-        <Route path="/embroidery/ramallah" element={<Ramallah />} />
-        <Route path="/embroidery/ramla" element={<Ramla />} />
-        <Route path="/embroidery/safad" element={<Safad />} />
-        <Route path="/embroidery/tiberias" element={<Tiberias />} />
-        <Route path="/embroidery/tulkarem" element={<Tulkarem />} />
-        <Route path="/palestinian-films" element={<PalestinianFilms />} />
-      </Routes>
-    </Router>
 
+  return (
+    <>
+      <Router>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/embroidery/acre" element={<Acre />} />
+          <Route path="/embroidery/beersheba" element={<Beersheba />} />
+          <Route path="/embroidery/beisan" element={<Beisan />} />
+          <Route path="/embroidery/gaza" element={<Gaza />} />
+          <Route path="/embroidery/haifa" element={<Haifa />} />
+          <Route path="/embroidery/hebron" element={<Hebron />} />
+          <Route path="/embroidery/jaffa" element={<Jaffa />} />
+          <Route path="/embroidery/jenin" element={<Jenin />} />
+          <Route path="/embroidery/jerusalem" element={<Jerusalem />} />
+          <Route path="/embroidery/nablus" element={<Nablus />} />
+          <Route path="/embroidery/nazareth" element={<Nazareth />} />
+          <Route path="/embroidery/ramallah" element={<Ramallah />} />
+          <Route path="/embroidery/ramla" element={<Ramla />} />
+          <Route path="/embroidery/safad" element={<Safad />} />
+          <Route path="/embroidery/tiberias" element={<Tiberias />} />
+          <Route path="/embroidery/tulkarem" element={<Tulkarem />} />
+          <Route path="/palestinian-films" element={<PalestinianFilms />} />
+          <Route path="/support-palestine" element={<SupportPalestine />} />
+        </Routes>
+      </Router>
+      <Loader />
+      <Cursor />
+    </>
   );
 }
 

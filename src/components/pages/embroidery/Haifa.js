@@ -1,7 +1,6 @@
 import React from "react";
-import Cursor from "../../Cursor";
-import CitySectionTemplate from "../../CityHeroSectionTemplate";
-import CityInfoSectionTemplate from "../../CityInfoSectionTemplate";
+import CitySectionTemplate from "../../sections/CityHeroSectionTemplate";
+import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
 import Scale from "../../../Assets/Images/scale.svg";
 import Star from "../../../Assets/Images/star.svg";
 import PalmTree from "../../../Assets/Images/palm_tree.svg";
@@ -32,7 +31,6 @@ function Haifa() {
   ];
   return (
     <>
-      <Cursor />
       <CitySectionTemplate cityName={city.name} imgSrc={city.imgSrc} />
       <CityInfoSectionTemplate
         cityName={city.name}

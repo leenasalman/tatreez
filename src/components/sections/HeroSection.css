@@ -14,7 +14,7 @@
   flex-direction: column;
   height: 100%;
 }
-.hero-section .hero-section__text .tatreez-primary-btn {
+.tatreez-primary-btn {
   background-color: #6b1616;
   color: #fff;
   border-radius: 13px;

@@ -1,15 +1,13 @@
 import React from "react";
-import Cursor from "../Cursor";
-import HeroSection from "../HeroSection";
-import Loader from "../Loader";
+import HeroSection from "../sections/HeroSection";
 import Cities from "../Cities";
-import FilmsSlider from "../FilmsSlider";
+import FilmsSlider from "../sections/FilmsSlider";
+import Button from "../Button";
 
 function Home() {
   return (
     <>
-      <Loader />
-      <Cursor />
+    <Button Title="Support Palestine" pagePath="/support-palestine" additionalClass="float-btn"/>
       <HeroSection />
       <Cities />
       <FilmsSlider />

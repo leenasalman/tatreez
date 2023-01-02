@@ -1,0 +1,7 @@
+.float-btn {
+  position: fixed;
+  bottom: 5rem;
+  right: 0rem;
+  z-index: 10;
+  transform: rotate(-90deg);
+}

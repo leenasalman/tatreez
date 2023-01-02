@@ -1,7 +1,6 @@
 import React from "react";
-import Cursor from "../../Cursor";
-import CitySectionTemplate from "../../CityHeroSectionTemplate";
-import CityInfoSectionTemplate from "../../CityInfoSectionTemplate";
+import CitySectionTemplate from "../../sections/CityHeroSectionTemplate";
+import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
 import Flower from "../../../Assets/Images/flower_2.svg";
 import Shapes from "../../Shapes";
 import IMG from "../../../Assets/Images/galilee.png";
@@ -22,7 +21,6 @@ function Acre() {
   ];
   return (
     <>
-      <Cursor />
       <CitySectionTemplate cityName={city.name} imgSrc={city.imgSrc} />
       <CityInfoSectionTemplate
         cityName={city.name}

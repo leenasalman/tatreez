@@ -48,8 +48,14 @@
   transition: all 0.2s ease-in-out;
   transform-origin: left bottom;
 }
-.audio-player.paused .line {
-  transform: scale(1, 0.2) !important;
+.audio-player .line:nth-child(1) {
+  transform: scale(1, .7);
+}
+.audio-player .line:nth-child(2) {
+  transform: scale(1, .4);
+}
+.audio-player .line:nth-child(3) {
+  transform: scale(1, .9);
 }
 .loader-style button::before {
   content: "";

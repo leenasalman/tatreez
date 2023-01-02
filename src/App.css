@@ -1,10 +1,10 @@
 :root {
-  /* background-color: #0b0d12 !important; */
   --blue: #029292;
   --orange: #ee9a51;
   --light-beige: #ffd3d3;
   --pink: #f2b0d9;
   --primary-text-color: #BC787E;
+  --link-text-color: #6b1616;
   font-family: "Roboto" !important;
   cursor: none;
 }
@@ -51,4 +51,10 @@ body {
   font-family: "Reem Kufi Ink" !important;
   text-shadow: 0px 0px 3px var(--primary-text-color);
 
+}
+.support-section {
+  height: 100vh;
+}
+.title-style {
+  color: #fff;
 }

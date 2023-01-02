@@ -1,7 +1,6 @@
 import React from "react";
-import Cursor from "../../Cursor";
-import CitySectionTemplate from "../../CityHeroSectionTemplate";
-import CityInfoSectionTemplate from "../../CityInfoSectionTemplate";
+import CitySectionTemplate from "../../sections/CityHeroSectionTemplate";
+import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
 import Watch from "../../../Assets/Images/watch.svg";
 import Cross from "../../../Assets/Images/cross.svg";
 import Shapes from "../../Shapes";
@@ -27,7 +26,6 @@ function Hebron() {
   ];
   return (
     <>
-      <Cursor />
       <CitySectionTemplate cityName={city.name} imgSrc={city.imgSrc} />
       <CityInfoSectionTemplate
         cityName={city.name}
