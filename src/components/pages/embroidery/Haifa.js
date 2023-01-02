@@ -1,11 +1,11 @@
 import React from "react";
-import CitySectionTemplate from "../sections/CityHeroSectionTemplate";
-import CityInfoSectionTemplate from "../sections/CityInfoSectionTemplate";
-import Scale from "../../Assets/Images/scale.svg";
-import Star from "../../Assets/Images/star.svg";
-import PalmTree from "../../Assets/Images/palm_tree.svg";
-import Shapes from "../Shapes";
-import IMG from "../../Assets/Images/haifa.png";
+import CitySectionTemplate from "../../sections/CityHeroSectionTemplate";
+import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
+import Shapes from "../../Shapes";
+import Scale from "../../../Assets/Images/scale.svg";
+import Star from "../../../Assets/Images/star.svg";
+import PalmTree from "../../../Assets/Images/palm_tree.svg";
+import IMG from "../../../Assets/Images/haifa.png";
 
 function Haifa() {
   var city = {

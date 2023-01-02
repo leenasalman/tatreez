@@ -1,9 +1,9 @@
 import React from "react";
-import CitySectionTemplate from "../sections/CityHeroSectionTemplate";
-import CityInfoSectionTemplate from "../sections/CityInfoSectionTemplate";
-import Flower from "../../Assets/Images/flower_2.svg";
-import Shapes from "../Shapes";
-import IMG from "../../Assets/Images/galilee.png";
+import CitySectionTemplate from "../../sections/CityHeroSectionTemplate";
+import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
+import Flower from "../../../Assets/Images/flower_2.svg";
+import Shapes from "../../Shapes";
+import IMG from "../../../Assets/Images/galilee.png";
 
 function Safad() {
   var city = {

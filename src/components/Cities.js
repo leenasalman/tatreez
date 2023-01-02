@@ -25,82 +25,82 @@ function Cities() {
               <div className="cities-section__container">
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/acre">Acre</Link>
+                    <Link to="/embroidery/acre">Acre</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link tp="/tulkarem">Tulkarem</Link>
+                    <Link to="/embroidery/tulkarem">Tulkarem</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/haifa">Haifa</Link>
+                    <Link to="/embroidery/haifa">Haifa</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/beersheba">Beersheba</Link>
+                    <Link to="/embroidery/beersheba">Beersheba</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/hebron">Hebron</Link>
+                    <Link to="/embroidery/hebron">Hebron</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/beisan">Beisan</Link>
+                    <Link to="/embroidery/beisan">Beisan</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/jenin">Jenin</Link>
+                    <Link to="/embroidery/jenin">Jenin</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/ramallah">Ramallah</Link>
+                    <Link to="/embroidery/ramallah">Ramallah</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/nablus">Nablus</Link>
+                    <Link to="/embroidery/nablus">Nablus</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/jerusalem">Jerusalem</Link>
+                    <Link to="/embroidery/jerusalem">Jerusalem</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/nazareth">Nazareth</Link>
+                    <Link to="/embroidery/nazareth">Nazareth</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/jaffa">Jaffa</Link>
+                    <Link to="/embroidery/jaffa">Jaffa</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/safad">Safad</Link>
+                    <Link to="/embroidery/safad">Safad</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/ramla">Ramla</Link>
+                    <Link to="/embroidery/ramla">Ramla</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tiberias">Tiberias</Link>
+                    <Link to="/embroidery/tiberias">Tiberias</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/gaza">Gaza</Link>
+                    <Link to="/embroidery/gaza">Gaza</Link>
                   </h2>
                 </div>
               </div>
