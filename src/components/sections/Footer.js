@@ -6,7 +6,7 @@ function Footer() {
     <>
       <footer>
         <div>
-          <h6 className="footer-style">©2023 Leena Salman. All rights reserved</h6>
+          <h6 className="footer-style">© 2023 Leena Salman. All rights reserved</h6>
         </div>
       </footer>
     </>
