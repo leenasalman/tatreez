@@ -5,6 +5,7 @@ import Watch from "../../../Assets/Images/watch.svg";
 import Cross from "../../../Assets/Images/cross.svg";
 import Shapes from "../../Shapes";
 import IMG from "../../../Assets/Images/jerusalem.png";
+import Footer from "../../sections/Footer";
 
 function Hebron() {
   useEffect(() => {
@@ -46,6 +47,7 @@ function Hebron() {
           />
         );
       })}
+      <Footer />
     </>
   );
 }

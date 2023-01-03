@@ -4,6 +4,8 @@ import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
 import Flower from "../../../Assets/Images/flower_2.svg";
 import Shapes from "../../Shapes";
 import IMG from "../../../Assets/Images/galilee.png";
+import Footer from "../../sections/Footer";
+
 function Nazareth() {
   useEffect(() => {
     document.body.scrollTop = document.documentElement.scrollTop = 0;
@@ -40,6 +42,7 @@ function Nazareth() {
           />
         );
       })}
+      <Footer />
     </>
   );
 }

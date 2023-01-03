@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import CitySectionTemplate from "../../sections/CityHeroSectionTemplate";
 import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
 import Shapes from "../../Shapes";
+import Footer from "../../sections/Footer";
 import Watch from "../../../Assets/Images/watch.svg";
 import FlowerPot from "../../../Assets/Images/flower_pot.svg";
 import Tent from "../../../Assets/Images/tent.svg";
@@ -51,6 +52,7 @@ function Jaffa() {
           />
         );
       })}
+      <Footer />
     </>
   );
 }

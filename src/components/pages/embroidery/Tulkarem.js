@@ -5,6 +5,7 @@ import Feather from "../../../Assets/Images/feather.svg";
 import Flower from "../../../Assets/Images/flower_2.svg";
 import IMG from "../../../Assets/Images/samaria.png";
 import Shapes from "../../Shapes";
+import Footer from "../../sections/Footer";
 
 function Tulkarem() {
   useEffect(() => {
@@ -46,6 +47,7 @@ function Tulkarem() {
           />
         );
       })}
+      <Footer />
     </>
   );
 }

@@ -1,5 +1,7 @@
 import React from "react";
 import Item from "../Item";
+import Footer from '../sections/Footer';
+
 
 function SupportPalestine() {
   return (
@@ -29,6 +31,7 @@ function SupportPalestine() {
           </div>
         </div>
       </section>
+      <Footer />
     </>
   );
 }

@@ -6,6 +6,8 @@ import FlowerPot from "../../../Assets/Images/flower_pot.svg";
 import Tent from "../../../Assets/Images/tent.svg";
 import Shapes from "../../Shapes";
 import IMG from '../../../Assets/Images/lydda.png';
+import Footer from "../../sections/Footer";
+
 
 function Ramla() {
   useEffect(() => {
@@ -51,6 +53,7 @@ function Ramla() {
           />
         );
       })}
+      <Footer />
     </>
   );
 }

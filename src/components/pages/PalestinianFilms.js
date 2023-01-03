@@ -3,6 +3,7 @@ import Loader from "../Loader";
 import Cursor from "../Cursor";
 import MovieCard from "../MovieCard";
 import axios from "axios";
+import Footer from '../sections/Footer';
 
 function PalestinianFilms() {
   const API_URL = "https://api.themoviedb.org/3/";
@@ -67,6 +68,7 @@ function PalestinianFilms() {
           <div className="row">{ renderAllMovies() }</div>
         </div>
       </section>
+      <Footer />
     </>
   );
 }

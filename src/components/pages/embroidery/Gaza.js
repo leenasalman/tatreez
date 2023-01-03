@@ -6,6 +6,7 @@ import IMG from "../../../Assets/Images/gaza.png";
 import Ship from "../../../Assets/Images/ship.svg";
 import Watch from "../../../Assets/Images/watch.svg";
 import ButterFly from "../../../Assets/Images/butterfly.svg";
+import Footer from "../../sections/Footer";
 function Gaza() {
   useEffect(() => {
     document.body.scrollTop = document.documentElement.scrollTop = 0;
@@ -50,6 +51,7 @@ function Gaza() {
           />
         );
       })}
+      <Footer />
     </>
   );
 }

@@ -5,6 +5,7 @@ import Shapes from "../../Shapes";
 import Feather from "../../../Assets/Images/feather.svg";
 import Flower from "../../../Assets/Images/flower_2.svg";
 import IMG from "../../../Assets/Images/samaria.png";
+import Footer from "../../sections/Footer";
 
 
 function Nablus() {
@@ -47,6 +48,7 @@ function Nablus() {
           />
         );
       })}
+      <Footer />
     </>
   );
 }

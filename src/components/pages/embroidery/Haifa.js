@@ -6,6 +6,7 @@ import Scale from "../../../Assets/Images/scale.svg";
 import Star from "../../../Assets/Images/star.svg";
 import PalmTree from "../../../Assets/Images/palm_tree.svg";
 import IMG from "../../../Assets/Images/haifa.png";
+import Footer from "../../sections/Footer";
 
 function Haifa() {
   useEffect(() => {
@@ -51,6 +52,7 @@ function Haifa() {
           />
         );
       })}
+      <Footer />
     </>
   );
 }
