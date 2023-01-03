@@ -13,6 +13,7 @@ Palestinian embroidery, or Tatreez (تطريز) is a traditional art form that h
  - [Font Awesome Icons](https://fontawesome.com/v5/search)
  - [Bootstrap](https://getbootstrap.com/)
  - [TMDB API](https://www.themoviedb.org/)
+ - [Animate on Scroll Library](https://michalsnik.github.io/aos/)
  - [Traditional Palestinian Music](https://www.youtube.com/watch?v=tUL1lrv5cH4&t=93s)
  - [Decolonize Palestine](https://decolonizepalestine.com/)
  - [BDS](https://bdsmovement.net/)
@@ -72,4 +73,3 @@ To deploy this project run
 ```bash
   npm run deploy
 ```
-
