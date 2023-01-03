@@ -23,10 +23,10 @@ Palestinian embroidery, or Tatreez (تطريز) is a traditional art form that h
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Primary Text Color | ![#BC787E](https://via.placeholder.com/10/BC787E?text=+) #BC787E |
-| Link Text Color | ![#FFFFFF](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
-| Background Color | ![#212529](https://via.placeholder.com/10/212529?text=+) #212529 |
-| Button Background Color | ![#6b1616](https://via.placeholder.com/10/6b1616?text=+) #6b1616 |
+| Primary Text Color | `#BC787E` |
+| Link Text Color | `#FFFFFF` |
+| Background Color | `#212529` |
+| Button Background Color | `#6b1616` |
 
 | Font |
 | ----------------- |
