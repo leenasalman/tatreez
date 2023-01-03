@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import CitySectionTemplate from "../../sections/CityHeroSectionTemplate";
 import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
 import Shapes from "../../Shapes";
@@ -7,11 +7,14 @@ import Ship from "../../../Assets/Images/ship.svg";
 import Watch from "../../../Assets/Images/watch.svg";
 import ButterFly from "../../../Assets/Images/butterfly.svg";
 function Gaza() {
+  useEffect(() => {
+    document.body.scrollTop = document.documentElement.scrollTop = 0;
+  });
   var city = {
     name: "Gaza",
     nameAr: "غزة",
     description:
-    " is a small coastal territory in the eastern Mediterranean and is home to a population of around 2 million people. Together, the Gaza Strip and the West Bank make up the State of Palestine, while being under Israeli military occupation since 1967.",
+      " is a small coastal territory in the eastern Mediterranean and is home to a population of around 2 million people. Together, the Gaza Strip and the West Bank make up the State of Palestine, while being under Israeli military occupation since 1967.",
     imgSrc: IMG,
   };
   var shapes = [
@@ -26,7 +29,7 @@ function Gaza() {
     {
       shapeText: "Watch",
       shapeImage: Watch,
-    }
+    },
   ];
   return (
     <>
@@ -52,4 +55,3 @@ function Gaza() {
 }
 
 export default Gaza;
-

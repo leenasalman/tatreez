@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import CitySectionTemplate from "../../sections/CityHeroSectionTemplate";
 import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
 import Shapes from "../../Shapes";
@@ -8,6 +8,9 @@ import IMG from "../../../Assets/Images/samaria.png";
 
 
 function Nablus() {
+  useEffect(() => {
+    document.body.scrollTop = document.documentElement.scrollTop = 0;
+  });
   var city = {
     name: "Nablus",
     nameAr: "نابلس",

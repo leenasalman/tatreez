@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import CitySectionTemplate from "../../sections/CityHeroSectionTemplate";
 import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
 import Shapes from "../../Shapes";
@@ -8,6 +8,9 @@ import PalmTree from "../../../Assets/Images/palm_tree.svg";
 import IMG from "../../../Assets/Images/haifa.png";
 
 function Haifa() {
+  useEffect(() => {
+    document.body.scrollTop = document.documentElement.scrollTop = 0;
+  });
   var city = {
     name: "Haifa",
     nameAr: "حيفا",

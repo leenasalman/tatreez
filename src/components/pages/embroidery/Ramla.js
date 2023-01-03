@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import CitySectionTemplate from "../../sections/CityHeroSectionTemplate";
 import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
 import Watch from "../../../Assets/Images/watch.svg";
@@ -8,6 +8,9 @@ import Shapes from "../../Shapes";
 import IMG from '../../../Assets/Images/lydda.png';
 
 function Ramla() {
+  useEffect(() => {
+    document.body.scrollTop = document.documentElement.scrollTop = 0;
+  });
   var city = {
     name: "Ramla",
     nameAr: "الرمله",

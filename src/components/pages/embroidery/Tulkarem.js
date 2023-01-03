@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import CitySectionTemplate from "../../sections/CityHeroSectionTemplate";
 import CityInfoSectionTemplate from "../../sections/CityInfoSectionTemplate";
 import Feather from "../../../Assets/Images/feather.svg";
@@ -7,6 +7,9 @@ import IMG from "../../../Assets/Images/samaria.png";
 import Shapes from "../../Shapes";
 
 function Tulkarem() {
+  useEffect(() => {
+    document.body.scrollTop = document.documentElement.scrollTop = 0;
+  });
   var city = {
     name: "Tulkarem's",
     nameAr: "طولكرم",

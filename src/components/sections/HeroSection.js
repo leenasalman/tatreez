@@ -15,8 +15,7 @@ function HeroSection() {
                   Palestinian embroidery, or Tatreez (
                   <span className="font-arabic">تطريز</span>) is a traditional
                   art form that has been passed down through generations of
-                  Palestinian women. Tatreez (
-                  <span className="font-arabic">تطريز</span>) is a website
+                  Palestinian women. Tatreez is a website
                   showcasing palestinian cities' tatreez form, films and ways to
                   support palestine.
                 </h1>
