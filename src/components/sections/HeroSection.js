@@ -1,7 +1,6 @@
 import React from "react";
 import "./HeroSection.css";
 import CityOutlineSection from "../CityOutlineSection";
-import Button from "../Button";
 
 function HeroSection() {
   return (
@@ -19,7 +18,6 @@ function HeroSection() {
                   showcasing palestinian cities' tatreez form, films and ways to
                   support palestine.
                 </h1>
-                <Button Title="explore more" pagePath="#citiesID" />
               </div>
             </div>
             <div className="col-md-6 col second-col">
