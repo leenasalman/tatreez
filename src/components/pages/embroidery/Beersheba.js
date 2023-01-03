@@ -7,6 +7,7 @@ import Ship from "../../../Assets/Images/ship.svg";
 import Watch from "../../../Assets/Images/watch.svg";
 import ButterFly from "../../../Assets/Images/butterfly.svg";
 function Beersheba() {
+  document.body.scrollTop = document.documentElement.scrollTop = 0;
   var city = {
     name: "Beersheba",
     nameAr: "بئر السبع",
