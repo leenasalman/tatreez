@@ -3,6 +3,7 @@ import HeroSection from "../sections/HeroSection";
 import Cities from "../Cities";
 import FilmsSlider from "../sections/FilmsSlider";
 import Button from "../Button";
+import Footer from "../sections/Footer";
 
 function Home() {
   return (
@@ -11,6 +12,7 @@ function Home() {
       <HeroSection />
       <Cities />
       <FilmsSlider />
+      <Footer />
     </>
   );
 }
