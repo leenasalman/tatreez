@@ -11,7 +11,7 @@ function Hebron() {
     name: "Hebron",
     nameAr: "الخليل",
     description:
-      " is a Palestinian city in the southern West Bank, 30 kilometres south of Jerusalem. Nestled in the Judaean Mountains, it lies 930 metres above sea level. The second-largest city in the West Bank (after East Jerusalem), and the third-largest in the Palestinian territories (after East Jerusalem and Gaza), it has a population of over 215,000 Palestinians (2016), and seven hundred Jewish settlers concentrated on the outskirts of its Old City.",
+      " is nestled in the Judaean Mountains, 930 metres above sea level. The second-largest city in the West Bank, and the third-largest in the Palestinian territories. It's known for its rich history and cultural significance. It's also a place where you can find some of the best food in the West Bank!",
     imgSrc: IMG,
   };
   var shapes = [

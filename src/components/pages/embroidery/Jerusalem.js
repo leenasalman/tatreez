@@ -11,7 +11,7 @@ function Jerusalem() {
     name: "Jerusalem",
     nameAr: "القدس",
     description:
-      " is a city in Western Asia. Situated on a plateau in the Judaean Mountains between the Mediterranean and the Dead Sea, it is one of the oldest cities in the world and is considered to be a holy city for the three major Abrahamic religions: Judaism, Christianity, and Islam. Both Israelis (colonisers) and Palestinians claim Jerusalem as their capital, as Israel maintains its primary governmental institutions there and the State of Palestine ultimately foresees it as its seat of power. Because of this dispute, neither claim is widely recognized internationally. Throughout its long history, Jerusalem has been destroyed at least twice, besieged 23 times, captured and recaptured 44 times, and attacked 52 times.",
+    " is a city with a rich history and a vibrant culture. It's known for its religious significance to Christians, Jews, and Muslims, and it's home to a number of important religious sites, including the Western Wall, the Church of the Holy Sepulchre, and the Dome of the Rock. But Jerusalem isn't just a city for history buffs - it's also a great place to have fun and try new things! From hiking in the beautiful hills surrounding the city to trying delicious Palestinian cuisine. Throughout its long history, Jerusalem has been destroyed at least twice, besieged 23 times, captured and recaptured 44 times, and attacked 52 times.",
     imgSrc: IMG,
   };
   var shapes = [

@@ -9,7 +9,7 @@ function Beisan() {
     name: "Beisan",
     nameAr: "بيسان",
     description:
-      " was one of the subdistricts of Mandatory Palestine. It was located around the city of Baysan. After the 1948 Arab-Israeli War, the subdistrict disintegrated; most of it became part of Israel (The colonisation), and has been merged with the neighboring Nazareth Subdistrict to from the modern-day Jezre'el County. The southernmost parts, however, fell within the modern-day West Bank - because of that, they were first occupied and unilaterally annexed by Jordan, and were later occupied by Israel (The colonisation) following the Six-day War.",
+      " is an ancient city with a long history, dating back to at least the Bronze Age. Beisan has been conquered and ruled by a number of different empires and civilizations over the centuries, including the Egyptians, the Canaanites, the Philistines, the Persians, the Greeks, the Romans, the Byzantines, and the Ottoman Turks.",
     imgSrc: IMG,
   };
   var shapes = [

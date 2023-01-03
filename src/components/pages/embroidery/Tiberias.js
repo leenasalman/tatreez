@@ -10,7 +10,7 @@ function Tiberias() {
     name: "Tiberias",
     nameAr: "طبريا",
     description:
-      " is located in northeastern Palestine on the western shore of Lake Tiberias. During the archaeological excavations that were conducted in the city between 1975 and 1976 AD, the southern gate of the city was discovered and found, in addition to the discovery of a network of sewage pipes that were built in the traditional Roman manner. Tiberias earn their livelihood from agriculture and work in fishing and some related work, and tourism has become the main occupation of the city's residents because of its location on the shore of the lake and near mineral springs.",
+    " has a long and interesting history that dates back over 2,000 years. The city was founded in the 1st century CE by the Roman emperor Augustus, and it was named after him (the name 'Tiberias' is derived from the Greek name for the emperor, 'Tiberius'). The southern gate of the city was discovered and found between 1975 and 1976 AD, in addition to the discovery of a network of sewage pipes that were built in the traditional Roman manner. Tiberias earn their livelihood from agriculture and work in fishing and some related work, and tourism has become the main occupation of the city's residents because of its location on the shore of the lake and near mineral springs. Tiberias is also known for its hot springs, which have been used for therapeutic purposes for centuries. The city has a number of spas and baths that are fed by the hot springs, and the waters are believed to have a number of health benefits, including relieving stress and improving circulation.",
     imgSrc: IMG,
   };
   var shapes = [

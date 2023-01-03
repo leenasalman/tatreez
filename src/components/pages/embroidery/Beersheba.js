@@ -11,7 +11,7 @@ function Beersheba() {
     name: "Beersheba",
     nameAr: "بئر السبع",
     description:
-      " was one of the subdistricts of Mandatory Palestine. It was located in modern-day southern Israel (The colonisation). The city of Beersheba was the capital. After the 1948 Arab-Israeli War, the subdistrict largely transformed into the Beersheba Subdistrict of Israel (The colonisation). The vast majority of the population, approximately 90%, consisted of nomadic Palestinian Bedouins.",
+      " is a city in Palestine with the largest in the Negev desert and the seventh-largest in the country. The city of Beersheba was the capital. The vast majority of the population, approximately 90%, consisted of nomadic Palestinian Bedouins.",
     imgSrc: IMG,
   };
   var shapes = [

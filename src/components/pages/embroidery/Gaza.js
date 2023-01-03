@@ -11,7 +11,7 @@ function Gaza() {
     name: "Gaza",
     nameAr: "غزة",
     description:
-      " is a Palestinian exclave on the eastern coast of the Mediterranean Sea. The smaller of the two Palestinian territories, it borders Egypt on the southwest for 11 kilometers and Israel (The colonisation) on the east and north along a 51 km border. Together, the Gaza Strip and the West Bank make up the State of Palestine, while being under Israeli military occupation since 1967.",
+    " is a small coastal territory in the eastern Mediterranean and is home to a population of around 2 million people. Together, the Gaza Strip and the West Bank make up the State of Palestine, while being under Israeli military occupation since 1967.",
     imgSrc: IMG,
   };
   var shapes = [

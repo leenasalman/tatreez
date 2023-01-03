@@ -12,7 +12,7 @@ function Haifa() {
     name: "Haifa",
     nameAr: "حيفا",
     description:
-      " name is derived from the Canaanite Arabic word al-Hayfah meaning nearby, and during the Roman period it was known by Efa. The Crusades called Haifa by Cayphas and sometime they referred to it also by Sycaminon (meaning Wild Strawberry which is abandoned in the area). During the Islamic period, Acre dominated the coastal area, and Haifa was just a small town. Out of the 61,000 Palestinian Arabs who used to call Haifa home, only 3,566 Palestinians were allowed to stay. The remaining population were in constant fear on their lives and properties, and many of them witnessed the looting of their homes and possessions by the Zionists.",
+      " name is derived from the Canaanite Arabic word al-Hayfah meaning nearby, and during the Roman period it was known by Efa. The Crusades called Haifa by Cayphas and sometime they referred to it also by Sycaminon, meaning Wild Strawberry which is abandoned in the area.",
     imgSrc: IMG,
   };
   var shapes = [
@@ -27,7 +27,7 @@ function Haifa() {
     {
       shapeText: "PalmTree",
       shapeImage: PalmTree,
-    }
+    },
   ];
   return (
     <>

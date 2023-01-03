@@ -12,7 +12,7 @@ function Nablus() {
     name: "Nablus",
     nameAr: "نابلس",
     description:
-      " is a Palestinian city that traces its modern name back to the Roman period, when it was named Flavia Neapolis by Roman emperor Vespasian in 72 CE. During the Byzantine period, conflict between the city's Samaritan and newer Christian inhabitants peaked in the Samaritan revolts that were eventually suppressed by the Byzantines by 573, which greatly dwindled the Samaritan population of the city. Nablus is one of the Palestinian cities that sustained elite classes, fostering the development of a culture of 'high cuisine', such as that of Damascus or Baghdad. The city is home to a number of food products well known throughout the Levant, the Arab world and the former provinces of the Ottoman Empire. Kanafeh (or Kunafa) is the best known Nabulsi sweet.",
+    " traces its modern name back to the Roman period, when it was named Flavia Neapolis by Roman emperor Vespasian in 72 CE. During the Byzantine period, conflict between the city's Samaritan and newer Christian inhabitants peaked in the Samaritan revolts that were eventually suppressed by the Byzantines by 573, which greatly dwindled the Samaritan population of the city, it's also home to the ancient city of Sebastia, which was once the capital of the Roman province of Palestine. Nablus is one of the Palestinian cities that sustained elite classes, fostering the development of a culture of 'high cuisine', such as that of Damascus or Baghdad. The city is home to a number of food products well known throughout the Levant, the Arab world and the former provinces of the Ottoman Empire. Kanafeh is the best known Nabulsi sweet.",
     imgSrc: IMG,
   };
   var shapes = [

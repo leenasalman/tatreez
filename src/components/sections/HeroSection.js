@@ -12,12 +12,13 @@ function HeroSection() {
             <div className="col-md-6 col first-col">
               <div className="hero-section__text">
                 <h1>
-                  Embroidery, or Tatreez (
-                  <span className="font-arabic">تطريز</span>) is an artistic
-                  tradition, embroidery has been a key feature of traditional
-                  Palestinian costumes for hundreds of years. Tatreez is a
-                  website created to showcase everything palestine, including
-                  embroidery, films, food and how to support palestine.
+                  Palestinian embroidery, or Tatreez (
+                  <span className="font-arabic">تطريز</span>) is a traditional
+                  art form that has been passed down through generations of
+                  Palestinian women. Tatreez (
+                  <span className="font-arabic">تطريز</span>) is a website
+                  showcasing palestinian cities' tatreez form, films and ways to
+                  support palestine.
                 </h1>
                 <Button Title="explore more" pagePath="#citiesID" />
               </div>
