@@ -34,4 +34,9 @@
   .hero-section .second-col {
     margin-top: -11rem;
   }
+  .hero-section h1 {
+    font-size: 24px;
+    padding: 50px 0 0px 0px;
+    text-align: center;
+}
 }
