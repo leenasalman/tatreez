@@ -25,7 +25,7 @@ function FilmsSlider() {
   const renderMovies = () =>
   movies.map((movie, index) =>
       index <= cardsNum ? (
-        <MovieCard key={movie.id + "_" + index + Math.random()} movie={movie} />
+        <MovieCard key={movie.id + "_" + index + Math.random()} movieTitle={movie.title} movieImg={movie.poster_path} movieRelaseDate={movie.release_date} movieKey={movie.key} />
       ) : null
     );
 

@@ -3,57 +3,48 @@ import Loader from "../Loader";
 import Cursor from "../Cursor";
 import MovieCard from "../MovieCard";
 import axios from "axios";
-import Footer from '../sections/Footer';
+import Footer from "../sections/Footer";
 
 function PalestinianFilms() {
+  // Define a state variable to store the data from the APIs
   const API_URL = "https://api.themoviedb.org/3/";
   const keyword_id = "537-palestine";
-  // Define a state variable to store the data from the APIs
-  const [pages, setPages] = useState();
-  const [apiData, setApiData] = useState({});
-  const [apiUrls, setApiUrls] = useState([]);
+
+  const apiUrls = [];
+  const [apiData, setApiData] = useState([]);
+  const [loading, setLoading] = useState();
 
   const fetchPages = async () => {
-    const {
-      data: { total_pages },
-    } = await axios.get(`${API_URL}/keyword/${keyword_id}/movies`, {
-      params: {
-        api_key: process.env.REACT_APP_MOVIE_API_KEY,
-      },
-    });
-    setPages(total_pages);
-  };
-
-  const fetchApiUrls = () => {
-    const updatedUrls = [...apiUrls];
-    for (let i = 1; i <= pages; i++) {
+    //fetch data from the link
+    const { data } = await axios.get(
+      `${API_URL}/keyword/${keyword_id}/movies`,
+      {
+        params: {
+          api_key: process.env.REACT_APP_MOVIE_API_KEY,
+        },
+      }
+    );
+    // save all 6 links retrieved in array to fetch data from them later
+    let updatedUrls = [...apiUrls];
+    for (let i = 1; i <= data.total_pages; i++) {
       updatedUrls.push(
         `${API_URL}keyword/${keyword_id}/movies?api_key=${process.env.REACT_APP_MOVIE_API_KEY}&page=${i}`
       );
     }
-    setApiUrls(updatedUrls);
+    //fetch data from all six links and then push them in array and at the end save in state
+    let allResults = [];
+    updatedUrls.map((url) =>
+      fetch(url)
+        .then((res) => res.json())
+        .then((data) => allResults.push(data.results))
+        .then((err) => setLoading(err))
+    );
+    setApiData(allResults);
   };
-
-  //   Use the useEffect hook to fetch data from the APIs when the component mounts
   useEffect(() => {
     fetchPages();
-    fetchApiUrls();
-    // Use the map() method to fetch data from each API in parallel
-    Promise.all(
-      apiUrls.map((url) => fetch(url).then((response) => response.json()))
-    ).then((data) => {
-      // Once all the data has been fetched, update the state
-      setApiData(data);
-    });
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [apiUrls]);
-
-  const renderAllMovies = () =>
-    Object.values(apiData).map((movie) =>
-      movie.results.map((movie) => (
-        <MovieCard key={movie.id + "_" + Math.random()} movie={movie} />
-      ))
-    );
+  }, []);
   return (
     <>
       <Loader />
@@ -65,7 +56,19 @@ function PalestinianFilms() {
               <h4>Palestinian Movies</h4>
             </div>
           </div>
-          <div className="row">{ renderAllMovies() }</div>
+          <div className="row">
+            {apiData &&
+              apiData.flat().map((array) => (
+                //array of objects [{},{},{}]
+                <MovieCard
+                  key={array.id + "_" + Math.random()}
+                  movieTitle={array.title}
+                  movieImg={array.poster_path}
+                  movieRelaseDate={array.release_date}
+                  movieKey={array.key}
+                />
+              ))}
+          </div>
         </div>
       </section>
       <Footer />
