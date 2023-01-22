@@ -18,7 +18,7 @@
   background-color: #6b1616;
   color: #fff;
   border-radius: 13px;
-  box-shadow: -2px 0px 6px 3px #070707, 0px 2px 11px 0px #ffe5e559;
+  /* box-shadow: -2px 0px 6px 3px #070707, 0px 2px 11px 0px #ffe5e559; */
 }
 @media screen and (max-width: 567px) {
   .hero-section .hero-section__text {
