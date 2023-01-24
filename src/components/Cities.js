@@ -25,82 +25,82 @@ function Cities() {
               <div className="cities-section__container">
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/acre">Acre</Link>
+                    <Link to="/embroidery/acre">Acre</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/tulkarem">Tulkarem</Link>
+                    <Link to="/embroidery/tulkarem">Tulkarem</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/haifa">Haifa</Link>
+                    <Link to="/embroidery/haifa">Haifa</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/beersheba">Beersheba</Link>
+                    <Link to="/embroidery/beersheba">Beersheba</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/hebron">Hebron</Link>
+                    <Link to="/embroidery/hebron">Hebron</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/beisan">Beisan</Link>
+                    <Link to="/embroidery/beisan">Beisan</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/jenin">Jenin</Link>
+                    <Link to="/embroidery/jenin">Jenin</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/ramallah">Ramallah</Link>
+                    <Link to="/embroidery/ramallah">Ramallah</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/nablus">Nablus</Link>
+                    <Link to="/embroidery/nablus">Nablus</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/jerusalem">Jerusalem</Link>
+                    <Link to="/embroidery/jerusalem">Jerusalem</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/nazareth">Nazareth</Link>
+                    <Link to="/embroidery/nazareth">Nazareth</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/jaffa">Jaffa</Link>
+                    <Link to="/embroidery/jaffa">Jaffa</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/safad">Safad</Link>
+                    <Link to="/embroidery/safad">Safad</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/ramla">Ramla</Link>
+                    <Link to="/embroidery/ramla">Ramla</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/tiberias">Tiberias</Link>
+                    <Link to="/embroidery/tiberias">Tiberias</Link>
                   </h2>
                 </div>
                 <div className="cites-section__text">
                   <h2>
-                    <Link to="/tatreez/embroidery/gaza">Gaza</Link>
+                    <Link to="/embroidery/gaza">Gaza</Link>
                   </h2>
                 </div>
               </div>
