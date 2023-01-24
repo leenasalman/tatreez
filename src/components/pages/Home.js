@@ -8,7 +8,7 @@ import Footer from "../sections/Footer";
 function Home() {
   return (
     <>
-    <Button Title="Support Palestine" pagePath="/support-palestine" additionalClass="float-btn"/>
+    <Button Title="Support Palestine" pagePath="/tatreez/support-palestine" additionalClass="float-btn"/>
       <HeroSection />
       <Cities />
       <FilmsSlider />

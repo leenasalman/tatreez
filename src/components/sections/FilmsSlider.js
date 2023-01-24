@@ -38,7 +38,7 @@ function FilmsSlider() {
               <h4>Palestinian Movies</h4>
             </div>
             <div className="col text-right">
-              <Link className="view-more-btn" to="/palestinian-films">
+              <Link className="view-more-btn" to="/tatreez/palestinian-films">
                 View More
               </Link>
             </div>
