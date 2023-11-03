@@ -15,7 +15,7 @@ function SupportPalestine() {
                 <ul className="list-items">
                   <Item
                     LinkUrl="https://www.map.org.uk/"
-                    Text="Medical Aid for Palestine (MAP)"
+                    Text="Medical Aid for Palestine"
                   />
                   <Item
                     LinkUrl="https://bdsmovement.net/"
