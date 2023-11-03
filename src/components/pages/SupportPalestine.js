@@ -14,6 +14,10 @@ function SupportPalestine() {
                 <h2 className="title-style">Learn, Donate and Boycott</h2>
                 <ul className="list-items">
                   <Item
+                    LinkUrl="https://www.map.org.uk/"
+                    Text="Medical Aid for Palestine (MAP)"
+                  />
+                  <Item
                     LinkUrl="https://bdsmovement.net/"
                     Text="Boycott, Divestment, Sanctions"
                   />
