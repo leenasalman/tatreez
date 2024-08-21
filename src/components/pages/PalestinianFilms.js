@@ -7,7 +7,7 @@ import Footer from "../sections/Footer";
 
 function PalestinianFilms() {
   // Define a state variable to store the data from the APIs
-  const API_URL = "https://api.themoviedb.org/3/";
+  const API_URL = "https://api.themoviedb.org/3";
   const keyword_id = "537-palestine";
 
   const apiUrls = [];
