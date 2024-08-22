@@ -5,8 +5,6 @@ import MovieCard from "../MovieCard";
 import "./FilmsSlider.css";
 function FilmsSlider() {
   const [movies, setMovies] = useState([]);
-  const API_URL = "https://api.themoviedb.org/3";
-  const keyword_id = "537-palestine";
   let cardsNum = 4;
   const fetchMovies = async () => {
       try {
