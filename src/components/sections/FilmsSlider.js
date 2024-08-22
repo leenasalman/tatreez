@@ -13,9 +13,8 @@ function FilmsSlider() {
         
         const {
           data: { results },
-        } = await axios.post(`${API_URL}/keyword/${keyword_id}/movies`, {
+        } = await axios.post(`https://api.themoviedb.org/3/keyword/537-palestine/movies`, {
           params: {
-            // 'Authorization': `Bearer ${token}` 
             api_key: process.env.REACT_APP_MOVIE_API_KEY,
           },
         });
