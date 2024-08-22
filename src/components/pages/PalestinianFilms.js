@@ -17,7 +17,7 @@ function PalestinianFilms() {
   const fetchPages = async () => {
     //fetch data from the link
     const { data } = await axios.get(
-      `${API_URL}/keyword/${keyword_id}/movies`,
+      `https://api.themoviedb.org/3/keyword/537-palestine/movies`,
       {
         params: {
           api_key: process.env.REACT_APP_MOVIE_API_KEY,
@@ -28,7 +28,7 @@ function PalestinianFilms() {
     let updatedUrls = [...apiUrls];
     for (let i = 1; i <= data.total_pages; i++) {
       updatedUrls.push(
-        `${API_URL}keyword/${keyword_id}/movies?api_key=${process.env.REACT_APP_MOVIE_API_KEY}&page=${i}`
+        `${API_URL}/keyword/${keyword_id}/movies?api_key=${process.env.REACT_APP_MOVIE_API_KEY}&page=${i}`
       );
     }
     //fetch data from all six links and then push them in array and at the end save in state
