@@ -4,7 +4,7 @@ import axios from "axios";
 import MovieCard from "../MovieCard";
 import "./FilmsSlider.css";
 function FilmsSlider() {
-  const [movies, setMovies] = useState([]);
+  const [movies, setMovies] = useState();
   let cardsNum = 4;
   const fetchMovies = async () => {
       try {
