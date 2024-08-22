@@ -16,9 +16,7 @@ function FilmsSlider() {
         api_key: process.env.REACT_APP_MOVIE_API_KEY,
       },
     });
-    console.log('results:', results);
     setMovies(results);
-    console.log('movies:', movies);
   };
   useEffect(() => {
     fetchMovies();
