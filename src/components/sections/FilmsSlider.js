@@ -11,7 +11,7 @@ function FilmsSlider() {
         
         const {
           data: { results },
-        } = await axios.post(`https://api.themoviedb.org/3/keyword/537-palestine/movies`, {
+        } = await axios.get(`https://api.themoviedb.org/3/keyword/537-palestine/movies`, {
           params: {
             api_key: process.env.REACT_APP_MOVIE_API_KEY,
           },
