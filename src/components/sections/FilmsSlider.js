@@ -13,8 +13,9 @@ function FilmsSlider() {
         
         const {
           data: { results },
-        } = await axios.get(`${API_URL}/keyword/${keyword_id}/movies`, {
+        } = await axios.post(`${API_URL}/keyword/${keyword_id}/movies`, {
           params: {
+            // 'Authorization': `Bearer ${token}` 
             api_key: process.env.REACT_APP_MOVIE_API_KEY,
           },
         });
