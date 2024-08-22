@@ -9,18 +9,22 @@ function FilmsSlider() {
   const keyword_id = "537-palestine";
   let cardsNum = 4;
   const fetchMovies = async () => {
-    const {
-      data: { results },
-    } = await axios.get(`${API_URL}/keyword/${keyword_id}/movies`, {
-      params: {
-        api_key: process.env.REACT_APP_MOVIE_API_KEY,
-      },
-    });
-    setMovies(results);
-    console.log(movies)
+      try {
+        
+        const {
+          data: { results },
+        } = await axios.get(`${API_URL}/keyword/${keyword_id}/movies`, {
+          params: {
+            api_key: process.env.REACT_APP_MOVIE_API_KEY,
+          },
+        });
+        setMovies(results);
+      } catch (error) {
+      console.error("Error fetching movies:", error);
+    }
   };
   useEffect(() => {
-    //fetchMovies();
+    fetchMovies();
   }, []);
   (window.innerWidth < '567') ? (cardsNum = 5) : (cardsNum = 4)
   const renderMovies = () =>
@@ -29,7 +33,6 @@ function FilmsSlider() {
         <MovieCard key={movie.id + "_" + index + Math.random()} movieTitle={movie.title} movieImg={movie.poster_path} movieRelaseDate={movie.release_date} movieKey={movie.key} />
       ) : null
     );
-fetchMovies();
   return (
     <>
       <section className="film-section">
@@ -44,7 +47,7 @@ fetchMovies();
               </Link>
             </div>
           </div>
-          // <div className="row">{renderMovies()}</div>
+          <div className="row">{renderMovies()}</div>
         </div>
       </section>
     </>
