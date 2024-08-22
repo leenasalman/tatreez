@@ -16,12 +16,11 @@ function FilmsSlider() {
         api_key: process.env.REACT_APP_MOVIE_API_KEY,
       },
     });
-    console.log('results:', results);
     setMovies(results);
-    console.log('movies:', movies);
+    console.log(movies)
   };
   useEffect(() => {
-    fetchMovies();
+    //fetchMovies();
   }, []);
   (window.innerWidth < '567') ? (cardsNum = 5) : (cardsNum = 4)
   const renderMovies = () =>
@@ -30,7 +29,7 @@ function FilmsSlider() {
         <MovieCard key={movie.id + "_" + index + Math.random()} movieTitle={movie.title} movieImg={movie.poster_path} movieRelaseDate={movie.release_date} movieKey={movie.key} />
       ) : null
     );
-
+fetchMovies();
   return (
     <>
       <section className="film-section">
@@ -45,7 +44,7 @@ function FilmsSlider() {
               </Link>
             </div>
           </div>
-          <div className="row">{renderMovies()}</div>
+          // <div className="row">{renderMovies()}</div>
         </div>
       </section>
     </>
