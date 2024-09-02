@@ -25,6 +25,7 @@ function FilmsSlider() {
   };
   useEffect(() => {
     fetchMovies();
+    console.log(movies);
   }, []);
   (window.innerWidth < '567') ? (cardsNum = 5) : (cardsNum = 4)
   const renderMovies = () =>
