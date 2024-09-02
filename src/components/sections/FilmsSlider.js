@@ -9,15 +9,16 @@ function FilmsSlider() {
   const fetchMovies = async () => {
       try {
         
-        const {
-          data: { results },
-        } = await axios.get(
-      `https://api.themoviedb.org/3/keyword/537-palestine/movies`,
-      {
-        params: {
-          api_key: process.env.REACT_APP_MOVIE_API_KEY,
-        },
-      });
+      //   const {
+      //     data: { results },
+      //   } = await axios.get(
+      // `https://api.themoviedb.org/3/keyword/537-palestine/movies`,
+      // {
+      //   params: {
+      //     api_key: process.env.REACT_APP_MOVIE_API_KEY,
+      //   },
+      // });
+        const results = await fetch(`https://api.themoviedb.org/3/keyword/537-palestine/movies?api_key=${process.env.REACT_APP_MOVIE_API_KEY}`);
         setMovies(results);
       } catch (error) {
       console.error("Error fetching movies:", error);
