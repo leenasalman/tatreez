@@ -15,15 +15,14 @@ function PalestinianFilms() {
   const [loading, setLoading] = useState();
 
   const fetchPages = async () => {
-    //fetch data from the link
-    // const { data } = await axios.get(
-    //   `https://api.themoviedb.org/3/keyword/537-palestine/movies`,
-    //   {
-    //     params: {
-    //       api_key: process.env.REACT_APP_MOVIE_API_KEY,
-    //     },
-    //   }
-    const results = await fetch(`https://api.themoviedb.org/3/keyword/537-palestine/movies?api_key=${process.env.REACT_APP_MOVIE_API_KEY}`);
+    // fetch data from the link
+    const { data } = await axios.get(
+      `https://api.themoviedb.org/3/keyword/537-palestine/movies`,
+      {
+        params: {
+          api_key: process.env.REACT_APP_MOVIE_API_KEY,
+        },
+      }
     );
     // save all 6 links retrieved in array to fetch data from them later
     let updatedUrls = [...apiUrls];
